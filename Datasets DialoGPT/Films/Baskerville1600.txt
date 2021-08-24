@@ -1,0 +1,6911 @@
+
+6
+00:01:33,807 --> 00:01:35,570
+Monsieur
+le Docteur Watson,
+que peut bien
+retenir Monsieur Holmes ?
+
+8
+00:01:38,979 --> 00:01:41,914
+Rassurez-vous,
+mes Sœurs,
+
+9
+00:01:41,982 --> 00:01:44,917
+votre sainte relique
+vous sera bientôt rendue.
+
+10
+00:01:44,985 --> 00:01:47,249
+Nous attendons depuis
+près d'une heure.
+
+11
+00:01:47,320 --> 00:01:50,255
+M. Holmes est un homme
+très occupé, ma Sœur.
+
+12
+00:01:52,325 --> 00:01:55,817
+M. Holmes est
+très occupé, ma Sœur.
+
+13
+00:01:55,896 --> 00:01:58,660
+Mais la Fête de Saint Beryl
+a lieu demain !
+
+14
+00:01:58,732 --> 00:02:00,996
+Des milliers
+de pauvres aveugles
+
+15
+00:02:01,067 --> 00:02:04,764
+s'amassent déjà à la chapelle
+afin de pouvoir embrasser la relique.
+
+16
+00:02:04,838 --> 00:02:08,365
+Au nom de tous les pauvres
+infirmes aveugles,
+
+17
+00:02:08,442 --> 00:02:10,103
+je vous en conjure.
+
+18
+00:02:11,111 --> 00:02:13,272
+Bon, je vais voir ce que
+je peux faire.
+
+19
+00:02:13,780 --> 00:02:16,305
+La volonté de Dieu !
+
+20
+00:02:35,302 --> 00:02:36,462
+Holmes !
+
+21
+00:02:36,536 --> 00:02:37,969
+Holmes, vous êtes là ?
+
+22
+00:02:38,038 --> 00:02:40,302
+Non, Watson, je suis
+à Budapest !
+
+23
+00:02:40,373 --> 00:02:44,207
+Oh, navré, Holmes.
+Je vais faire suivre votre courrier.
+
+24
+00:02:56,323 --> 00:02:58,655
+J'ai de bien tristes
+nouvelles, mes Sœurs.
+
+25
+00:02:58,725 --> 00:03:02,092
+Apparemment, Sherlock
+Holmes se trouve à Budapest.
+
+26
+00:03:02,162 --> 00:03:05,893
+- Ce café est infect, Watson.
+- Oh, il est de retour !
+
+27
+00:03:05,966 --> 00:03:07,558
+Comme c'est aimable à vous.
+
+28
+00:03:07,634 --> 00:03:10,728
+Vous vous souvenez de ces
+trois nonnes de Monte-Carlo ?
+
+29
+00:03:10,804 --> 00:03:12,431
+Leur relique a été volée.
+
+30
+00:03:12,506 --> 00:03:15,066
+L'affaire du pouce
+de l'ingénieur, c'est ça ?
+
+31
+00:03:15,141 --> 00:03:18,110
+- Non, non, non.
+- Du pied de l'athlète, alors ?
+
+32
+00:03:18,178 --> 00:03:21,875
+- Non, du coude de Saint Beryl.
+- Oh, coudes, pouces, pieds !
+
+33
+00:03:21,948 --> 00:03:24,678
+Quand vais-je pouvoir
+me reposer ?
+
+34
+00:03:25,619 --> 00:03:27,883
+Bon, alors, mesdames.
+
+35
+00:03:27,954 --> 00:03:32,550
+Monsieur Holmes, qui a pu
+perpétrer ce crime odieux ?
+
+36
+00:03:32,626 --> 00:03:35,561
+En quelques mots,
+et en termes simples,
+
+37
+00:03:35,629 --> 00:03:37,392
+compréhensibles
+par des nonnes,
+
+38
+00:03:37,464 --> 00:03:40,399
+je pense que nous avons
+à faire à des voleurs.
+
+39
+00:03:40,467 --> 00:03:43,402
+Tout dans cette affaire me
+rappelle des vols passés
+
+40
+00:03:43,470 --> 00:03:45,938
+dont les coupables
+étaient des voleurs.
+
+41
+00:03:46,006 --> 00:03:49,567
+Le modus operandi,
+des choses qui disparaissent,
+
+42
+00:03:49,643 --> 00:03:52,635
+tout cela fait penser
+à des voleurs.
+
+43
+00:03:52,712 --> 00:03:55,180
+Mais comment retrouver
+un tel individu ?
+
+44
+00:03:55,248 --> 00:03:59,241
+J'utilise une méthode inédite,
+inconnue même de Scotland Yard.
+
+45
+00:03:59,319 --> 00:04:00,980
+Je l'ai appelée
+''Puzzle Facial.''
+
+46
+00:04:01,054 --> 00:04:02,419
+Oh, oui !
+
+47
+00:04:02,489 --> 00:04:06,516
+C'est un assemblage des parties
+du visage d'un criminel, non ?
+
+48
+00:04:06,593 --> 00:04:07,821
+Hélas, non.
+
+49
+00:04:07,894 --> 00:04:11,091
+Je ne peux qu'assembler
+l'apparence du visage
+
+50
+00:04:11,164 --> 00:04:12,188
+du criminel.
+
+51
+00:04:12,265 --> 00:04:15,166
+Je ne puis assembler
+le visage en lui-même.
+
+52
+00:04:15,235 --> 00:04:18,500
+Même si ce serait très utile,
+car une fois le visage capturé,
+
+53
+00:04:18,572 --> 00:04:21,507
+les autres parties du criminel
+sont faciles à trouver,
+
+54
+00:04:21,575 --> 00:04:25,534
+le corps du criminel étant situé
+juste sous le visage du criminel,
+
+55
+00:04:25,612 --> 00:04:28,706
+auquel il est relié
+par le cou.
+
+56
+00:04:28,782 --> 00:04:31,512
+Alors,
+il n'y a plus d'espoir.
+
+57
+00:04:31,585 --> 00:04:32,950
+Au contraire !
+
+58
+00:04:33,520 --> 00:04:35,454
+Vous l'avez trouvée,
+Monsieur Holmes ?
+
+59
+00:04:35,522 --> 00:04:38,548
+Bien sûr. Volée par un membre
+de votre congrégation.
+
+60
+00:04:38,625 --> 00:04:40,024
+Des infirmes,
+si je ne m'abuse ?
+
+61
+00:04:40,093 --> 00:04:43,028
+- Exact, Monsieur Holmes.
+- lncroyable, Holmes !
+
+62
+00:04:43,096 --> 00:04:44,188
+Très simple, Watson.
+
+63
+00:04:44,264 --> 00:04:46,027
+J'ai tout de suite repéré
+l'infirme coupable,
+
+64
+00:04:46,099 --> 00:04:50,399
+traînant près du tombeau,
+la relique dépassant de son gilet.
+
+65
+00:04:51,071 --> 00:04:54,165
+Merci,
+Monsieur, merci.
+
+66
+00:05:20,734 --> 00:05:23,362
+REMORDS SANS SEXE
+par S. Freud
+
+67
+00:06:50,290 --> 00:06:51,621
+CHAPlTRE l
+
+68
+00:06:51,691 --> 00:06:54,717
+<i>Où Holmes et Watson</i>
+
+69
+00:06:54,794 --> 00:06:57,729
+<i>découvrent
+une sinistre légende.</i>
+
+70
+00:06:58,631 --> 00:07:00,121
+Qui cela peut être ?
+
+71
+00:07:01,167 --> 00:07:03,567
+Je dirais un médecin
+d'âge moyen,
+
+72
+00:07:03,636 --> 00:07:06,070
+venant de Dartmoor,
+
+73
+00:07:06,139 --> 00:07:07,902
+et du nom de Mortimer.
+
+74
+00:07:07,974 --> 00:07:09,737
+Comment avez-vous
+déduit cela ?
+
+75
+00:07:09,809 --> 00:07:12,801
+C'est ce qu'il m'a dit ce matin
+en prenant rendez-vous.
+
+76
+00:07:13,813 --> 00:07:15,906
+D'après moi, ça,
+c'est encore lui.
+
+77
+00:07:15,982 --> 00:07:18,849
+Watson, toutes ces affaires
+m'épuisent.
+
+78
+00:07:18,918 --> 00:07:21,682
+Je veux bien le voir,
+mais je ne promets rien.
+
+79
+00:07:21,755 --> 00:07:23,586
+D'accord.
+Pas de problème.
+
+80
+00:07:36,603 --> 00:07:38,366
+Bien, Dr Mortimer !
+
+81
+00:07:39,606 --> 00:07:41,597
+- Exactement.
+- Ah, oui.
+
+82
+00:07:43,109 --> 00:07:44,770
+Oh, zut, j'ai laissé...
+
+83
+00:07:45,945 --> 00:07:47,879
+Désolé.
+Entrez donc !
+
+84
+00:07:47,947 --> 00:07:49,209
+- Merci.
+- Oui.
+
+85
+00:07:49,282 --> 00:07:51,375
+- Dr Watson ?
+- Oui, tout à fait, oui.
+
+86
+00:07:51,451 --> 00:07:52,782
+Après vous.
+
+87
+00:07:53,787 --> 00:07:56,449
+Holmes,
+voici le Dr Mortimer.
+
+88
+00:07:56,523 --> 00:07:58,787
+Dr Mortimer, je vous
+présente Sherlock Holmes.
+
+89
+00:07:58,858 --> 00:08:02,225
+- Ne vous dérangez pas.
+- Je n'en ai nullement l'intention.
+
+90
+00:08:02,295 --> 00:08:05,992
+- Watson, une chaise.
+- Certainement, avec plaisir.
+
+91
+00:08:06,065 --> 00:08:08,659
+Oui, bien sûr.
+Oh, mais certainement, oui.
+
+92
+00:08:09,169 --> 00:08:11,330
+Prenez donc un siège,
+Dr Mortimer.
+
+93
+00:08:11,404 --> 00:08:13,702
+- Asseyez-vous là.
+- Merci.
+
+94
+00:08:14,407 --> 00:08:16,341
+- Oh, merci.
+- Je vous en prie.
+
+95
+00:08:16,409 --> 00:08:19,003
+Puis-je d'abord vous dire
+que je vous admire...
+
+96
+00:08:19,078 --> 00:08:22,514
+- ...depuis de longues années ?
+- Bien sûr, mais allez au fait.
+
+97
+00:08:22,582 --> 00:08:25,847
+Permettez-moi de préciser que
+je suis l'exécuteur testamentaire
+
+98
+00:08:25,919 --> 00:08:30,015
+du Domaine de Baskerville,
+valant plus d'un million de livres,
+
+99
+00:08:30,089 --> 00:08:34,025
+et constitué presque exclusivement
+d'une vaste étendue de lande.
+
+100
+00:08:34,093 --> 00:08:36,891
+J'ai appris la mort de
+Sir Charles dans le ''Times.''
+
+101
+00:08:36,963 --> 00:08:39,227
+Cause naturelle, non ?
+
+102
+00:08:39,299 --> 00:08:40,561
+Pour le grand public, oui.
+
+103
+00:08:40,633 --> 00:08:43,796
+Mais je suis d'avis que
+Sir Charles a été assassiné,
+
+104
+00:08:43,870 --> 00:08:46,430
+de façon surnaturelle.
+
+105
+00:08:46,506 --> 00:08:50,203
+Mon cher ami,
+nous vivons au 20ème siècle.
+
+106
+00:08:51,211 --> 00:08:52,542
+N'est-ce pas ?
+
+107
+00:08:52,612 --> 00:08:54,978
+Certes, mais
+d'après la légende locale,
+
+108
+00:08:55,048 --> 00:08:58,609
+un monstre terrifiant,
+un véritable chien de l'enfer,
+
+109
+00:08:58,685 --> 00:09:02,212
+a causé la mort de tous les héritiers
+mâles de Baskerville Hall.
+
+110
+00:09:02,288 --> 00:09:03,448
+Un chien ?
+
+111
+00:09:03,523 --> 00:09:06,287
+Dr Mortimer, quelles furent
+les circonstances exactes...
+
+112
+00:09:06,359 --> 00:09:09,795
+- ...de la mort de Sir Charles ?
+- Eh bien, Sir Charles Baskerville
+
+113
+00:09:09,863 --> 00:09:12,127
+a été mon patient
+pendant des années.
+
+114
+00:09:12,198 --> 00:09:14,792
+ll s'est toujours montré
+totalement sain d'esprit.
+
+115
+00:09:14,868 --> 00:09:18,497
+Mais au fil du temps,
+il se replia sur lui-même,
+
+116
+00:09:18,571 --> 00:09:20,835
+faisant même ériger
+une immense clôture
+
+117
+00:09:20,907 --> 00:09:22,704
+autour de la propriété.
+
+118
+00:09:22,775 --> 00:09:25,801
+ll devint complètement
+obsédé par l'idée
+
+119
+00:09:25,879 --> 00:09:28,040
+que le légendaire
+Chien des Baskerville
+
+120
+00:09:28,114 --> 00:09:30,480
+allait revenir pour le tuer.
+
+121
+00:09:30,550 --> 00:09:31,915
+lncroyable !
+
+122
+00:09:31,985 --> 00:09:35,648
+- Ça n'a rien d'extraordinaire.
+- Tout à fait d'accord, Holmes.
+
+123
+00:09:35,722 --> 00:09:37,781
+- Oh, oui.
+- Je fus appelé...
+
+124
+00:09:37,857 --> 00:09:39,791
+en ma qualité de coroner,
+
+125
+00:09:39,859 --> 00:09:42,623
+pour enquêter sur
+les circonstances mystérieuses
+
+126
+00:09:42,695 --> 00:09:44,890
+ayant entraîné la découverte
+du corps de Sir Charles.
+
+127
+00:09:45,465 --> 00:09:49,060
+Continuez et n'oubliez aucun
+détail, même infime.
+
+128
+00:09:49,135 --> 00:09:52,036
+- Allez, qu'on en finisse !
+- Oui, soyez bref !
+
+129
+00:09:52,105 --> 00:09:55,939
+Sur son visage était figée
+une telle expression d'horreur
+
+130
+00:09:56,009 --> 00:09:58,773
+qu'il me fut quasiment
+impossible de le reconnaître.
+
+131
+00:09:58,845 --> 00:10:01,939
+Son corps ne portait aucune
+marque de violence physique.
+
+132
+00:10:02,015 --> 00:10:04,108
+Mais tout autour de lui
+se trouvaient des traces de pas,
+
+133
+00:10:04,183 --> 00:10:07,949
+des pas énormes, surnaturels,
+absolument inhumains.
+
+134
+00:10:08,521 --> 00:10:10,182
+Venez en au fait.
+
+135
+00:10:11,291 --> 00:10:13,953
+M. Holmes, ces traces...
+
+136
+00:10:15,295 --> 00:10:17,627
+étaient celles d'un...
+
+137
+00:10:19,399 --> 00:10:21,993
+chien gigantesque.
+
+138
+00:10:22,802 --> 00:10:25,396
+Oh, avec d'énormes
+mâchoires baveuses
+
+139
+00:10:25,471 --> 00:10:28,065
+et de gros yeux suintants
+
+140
+00:10:28,141 --> 00:10:30,575
+et d'imposantes
+parties intimes ?
+
+141
+00:10:30,643 --> 00:10:33,874
+- Colossales !
+- Oh, Seigneur !
+
+142
+00:10:33,947 --> 00:10:35,881
+Mais comment
+savez-vous ça ?
+
+143
+00:10:35,949 --> 00:10:37,712
+Ben, j'avais un petit
+pékinois dans ce genre là.
+
+144
+00:10:37,784 --> 00:10:42,084
+ll sautait sur le lit et se mettait
+à montrer ses crocs, et puis,
+
+145
+00:10:42,155 --> 00:10:45,352
+- ...sans prévenir...
+- Ça suffit, Watson.
+
+146
+00:10:45,425 --> 00:10:47,518
+Tout cela me semble
+très logique.
+
+147
+00:10:47,593 --> 00:10:50,187
+Absolument !
+Un jeu d'enfant.
+
+148
+00:10:50,263 --> 00:10:52,697
+Pourriez-vous venir
+rencontrer l'héritier
+
+149
+00:10:52,765 --> 00:10:55,199
+à l'Hôtel Northumberland
+demain matin à 10 heures ?
+
+150
+00:10:55,268 --> 00:10:58,760
+Qu'en pensez-vous, Holmes ?
+Recevrons-nous le légataire...
+
+151
+00:10:58,838 --> 00:10:59,998
+l'héritier ici...
+
+152
+00:11:00,073 --> 00:11:04,032
+ou irons-nous
+le voir là-bas ?
+
+153
+00:11:04,110 --> 00:11:06,135
+Là-bas,
+demain 10h00.
+
+154
+00:11:06,212 --> 00:11:07,873
+- lci, alors !
+- Là-bas !
+
+155
+00:11:08,414 --> 00:11:09,403
+Là-bas !
+
+156
+00:11:09,849 --> 00:11:11,009
+CHAPlTRE ll
+
+157
+00:11:11,084 --> 00:11:13,348
+<i>Le lendemain...</i>
+
+158
+00:11:13,419 --> 00:11:15,910
+<i>lls rencontrent
+le nouvel héritier.</i>
+
+159
+00:11:15,989 --> 00:11:18,583
+Je vous présente le jeune
+Sir Henry Baskerville,
+
+160
+00:11:18,658 --> 00:11:22,253
+héritier de Baskerville Hall
+et de 800 hectares de marais.
+
+161
+00:11:22,328 --> 00:11:24,762
+Je ne sais comment
+vous remercier, M. Holmes,
+
+162
+00:11:24,831 --> 00:11:27,129
+d'avoir accepté de venir.
+
+163
+00:11:27,200 --> 00:11:30,294
+C'est vrai quoi, vous êtes
+un merveilleux détective.
+
+164
+00:11:30,370 --> 00:11:33,965
+Vous devez nous aider. Une chose
+horrible s'est produite hier soir.
+
+165
+00:11:34,040 --> 00:11:35,302
+Racontez-lui, Sir Henry.
+
+166
+00:11:35,375 --> 00:11:36,808
+Eh bien, je suis allé
+me coucher tôt...
+
+167
+00:11:36,876 --> 00:11:40,209
+- ...car je me sentais un peu...
+- Non, pas à moi, à lui.
+
+168
+00:11:41,214 --> 00:11:43,148
+Oh, d'accord.
+Oui.
+
+169
+00:11:43,216 --> 00:11:47,152
+Je suis allé au lit tôt car
+je me sentais patraque.
+
+170
+00:11:47,220 --> 00:11:48,983
+Quelques ballonnements.
+
+171
+00:11:49,055 --> 00:11:51,319
+C'est dans la famille.
+
+172
+00:11:52,992 --> 00:11:53,981
+Enfin, bref...
+
+173
+00:11:54,060 --> 00:11:57,052
+Je laissai mes bottes dans
+le couloir pour les faire polir,
+
+174
+00:11:57,130 --> 00:11:59,655
+et ce matin en ouvrant la porte,
+vous n'allez pas le croire...
+
+175
+00:11:59,732 --> 00:12:02,292
+L'une d'elles avait disparu.
+
+176
+00:12:02,368 --> 00:12:05,769
+Vous pensez que je vais perdre
+mon temps à fouiller Londres
+
+177
+00:12:05,838 --> 00:12:07,635
+pour une vieille botte ?
+
+178
+00:12:07,707 --> 00:12:09,641
+C'est un travail d'imbécile.
+
+179
+00:12:09,709 --> 00:12:12,041
+Vous avez raison, Holmes !
+Je vais m'en occuper.
+
+180
+00:12:12,712 --> 00:12:14,373
+Sir Henry, euh...
+
+181
+00:12:14,447 --> 00:12:18,543
+Cette botte prétendument volée,
+de quelle couleur était-elle ?
+
+182
+00:12:18,618 --> 00:12:20,381
+Marron.
+Oui, marron.
+
+183
+00:12:20,453 --> 00:12:22,717
+- Oh, marron dites-vous ?
+- Oui.
+
+184
+00:12:22,789 --> 00:12:25,053
+Exactement comme
+cette botte-ci,
+
+185
+00:12:25,124 --> 00:12:27,217
+celle devant nous ?
+
+186
+00:12:27,293 --> 00:12:31,127
+Bien sûr ! J'essaie toujours
+de coordonner mes bottes.
+
+187
+00:12:32,131 --> 00:12:33,962
+Etrange coïncidence.
+
+188
+00:12:34,534 --> 00:12:37,128
+- Tout ceci sent mauvais.
+- Parfaitement !
+
+189
+00:12:37,203 --> 00:12:40,798
+Quel meilleur moyen d'attirer
+un chien qu'un objet
+
+190
+00:12:40,873 --> 00:12:44,639
+imprégné de l'odeur
+de la future victime ?
+
+191
+00:12:44,710 --> 00:12:48,271
+Oui, Sir Henry
+est en grand danger.
+
+192
+00:12:48,347 --> 00:12:50,941
+Je regrette, je ne puis
+accepter cette affaire.
+
+193
+00:12:51,017 --> 00:12:53,781
+Le Dr Watson s'en chargera.
+
+194
+00:12:53,853 --> 00:12:55,787
+Oh, non !
+
+195
+00:12:55,855 --> 00:12:58,619
+Je n'ai jamais
+rien fait seul auparavant !
+
+196
+00:12:58,691 --> 00:13:00,386
+Mais si, voyons, Watson.
+
+197
+00:13:00,460 --> 00:13:02,826
+Ne pouvons-nous vous
+faire changer d'avis ?
+
+198
+00:13:02,895 --> 00:13:06,160
+Navré, Dr Mortimer,
+mais je suis très fatigué.
+
+199
+00:13:06,232 --> 00:13:07,824
+J'ai résolu trop d'affaires.
+
+200
+00:13:07,900 --> 00:13:11,734
+Etre le meilleur détective
+au monde n'est pas de tout repos.
+
+201
+00:13:13,573 --> 00:13:15,564
+Je vous laisse entre
+de bonnes mains.
+
+202
+00:13:16,909 --> 00:13:19,673
+Bien le bonjour, messieurs.
+Je trouverai la sortie.
+
+203
+00:13:19,745 --> 00:13:21,235
+Oui, il la trouvera.
+
+204
+00:13:21,747 --> 00:13:22,839
+Oui.
+
+205
+00:13:22,915 --> 00:13:25,645
+Quelle immense
+déception.
+
+206
+00:13:26,486 --> 00:13:29,319
+Bon, passons aux
+choses sérieuses.
+
+207
+00:13:30,957 --> 00:13:34,654
+Un ou deux détails de cette affaire
+me turlupinent un peu.
+
+208
+00:13:38,498 --> 00:13:42,298
+D'abord, cette canne
+que vous avez là.
+
+209
+00:13:42,969 --> 00:13:46,632
+Dr Mortimer, je déduis de ce
+poil que vous avez un chien.
+
+210
+00:13:47,140 --> 00:13:50,405
+Epagneul ? Retriever ?
+Labrador ?
+
+211
+00:13:50,476 --> 00:13:54,003
+- Saint-Hubert, peut-être ?
+- ll est d'une race spéciale
+
+212
+00:13:54,080 --> 00:13:56,071
+dont un ami fait
+l'élevage sur la lande.
+
+213
+00:13:56,149 --> 00:13:58,379
+Cette race vient du Mexique.
+lls l'appellent Chihuahua.
+
+214
+00:13:58,451 --> 00:14:00,442
+ll perd ses poils partout.
+
+215
+00:14:00,953 --> 00:14:03,820
+Les chihuahuas sont une race
+de chiens imberbes, Dr Mortimer.
+
+216
+00:14:03,890 --> 00:14:05,983
+Pas sur la lande, Dr Watson.
+
+217
+00:14:06,058 --> 00:14:09,050
+Bien sûr,
+Dr Chihuahua... Mortimer.
+
+218
+00:14:13,266 --> 00:14:16,360
+Où et à quelle heure le train
+pour Baskerville part-il ?
+
+219
+00:14:16,435 --> 00:14:18,699
+Demain, midi,
+Victoria.
+
+220
+00:14:18,771 --> 00:14:20,602
+Oh, appelez-moi
+donc John.
+
+221
+00:14:21,107 --> 00:14:23,871
+Nous nous reconnaîtrons
+par des œillets roses...
+
+222
+00:14:23,943 --> 00:14:26,036
+- ...portés à la boutonnière.
+- Oh, j'aime beaucoup le rose.
+
+223
+00:14:26,112 --> 00:14:28,012
+Oui, moi aussi.
+
+224
+00:14:28,548 --> 00:14:29,446
+CHAPlTRE lll
+
+225
+00:14:29,515 --> 00:14:30,777
+<i>Et ainsi...</i>
+
+226
+00:14:30,850 --> 00:14:35,184
+<i>Watson se lance dans
+sa première enquête en solo.</i>
+
+227
+00:14:58,144 --> 00:14:59,907
+Etes-vous le Dr Mortimer ?
+
+228
+00:14:59,979 --> 00:15:02,174
+Dr Watson, bien sûr
+que je suis le Dr Mortimer.
+
+229
+00:15:02,248 --> 00:15:04,182
+Vous savez fort bien
+que je suis le Dr Mortimer !
+
+230
+00:15:04,250 --> 00:15:06,343
+Dans ce cas,
+où est votre œillet ?
+
+231
+00:15:06,419 --> 00:15:10,014
+Sir Henry n'a pas voulu gâcher
+son bouquet en m'en donnant un.
+
+232
+00:15:10,089 --> 00:15:13,024
+Houhou, Watty !
+Je suis là.
+
+233
+00:15:13,092 --> 00:15:16,186
+Oh, Bonté Divine.
+
+234
+00:15:16,262 --> 00:15:18,355
+Je vous ai gardé une place
+près de la fenêtre.
+
+235
+00:15:18,431 --> 00:15:20,092
+Bien vu, Sir Henry.
+
+236
+00:15:22,435 --> 00:15:23,595
+Attention la porte.
+
+237
+00:15:34,280 --> 00:15:35,872
+Vous mis à part,
+Dr Mortimer,
+
+238
+00:15:35,948 --> 00:15:38,382
+qui sont nos voisins
+à Baskerville Hall ?
+
+239
+00:15:38,451 --> 00:15:41,648
+ll y a Stapleton...
+l'homme aux Chihuahuas...
+
+240
+00:15:41,721 --> 00:15:43,279
+et sa sœur.
+
+241
+00:15:43,356 --> 00:15:44,914
+Un couple fort étrange.
+
+242
+00:15:44,991 --> 00:15:46,856
+Puis il y a Frankland,
+
+243
+00:15:46,926 --> 00:15:49,520
+un homme dont l'unique obsession
+est d'attraper le chien,
+
+244
+00:15:49,595 --> 00:15:51,256
+et sa maîtresse.
+
+245
+00:15:51,330 --> 00:15:53,264
+Un couple fort étrange.
+
+246
+00:15:53,332 --> 00:15:55,095
+ll y a aussi
+M. et Mme Barrymore,
+
+247
+00:15:55,167 --> 00:15:57,431
+qui habitent là bas
+depuis des générations.
+
+248
+00:15:57,503 --> 00:16:00,097
+Un couple fort étrange.
+
+249
+00:16:00,172 --> 00:16:02,367
+Et Marcia,
+la fille de cuisine,
+
+250
+00:16:02,441 --> 00:16:04,170
+avec Perkins, le palefrenier.
+
+251
+00:16:04,243 --> 00:16:06,040
+Un couple fort étrange.
+
+252
+00:16:06,112 --> 00:16:09,343
+Quelle idée absurde.
+Ce sont des gens charmants !
+
+253
+00:16:10,483 --> 00:16:11,541
+Une intuition.
+
+254
+00:16:12,518 --> 00:16:15,282
+Tous ces voyages
+m'épuisent.
+
+255
+00:16:15,354 --> 00:16:18,949
+Votre retour du Canada
+ne vous a pas plu ?
+
+256
+00:16:19,025 --> 00:16:20,959
+Ciel, non, c'était affreux !
+
+257
+00:16:21,027 --> 00:16:23,291
+Je me baladais paisiblement
+sur le pont
+
+258
+00:16:23,362 --> 00:16:24,886
+quand un orage survint.
+
+259
+00:16:24,964 --> 00:16:29,799
+Des rafales de vent m'obligèrent
+à m'accrocher au bastingage
+
+260
+00:16:29,869 --> 00:16:32,463
+jusqu'à ce que je lâche prise !
+
+261
+00:16:32,538 --> 00:16:33,971
+Quelle misère.
+
+262
+00:16:34,040 --> 00:16:37,305
+Et soudain cette énorme vague
+s'est abattue sur le bateau
+
+263
+00:16:37,376 --> 00:16:39,708
+et m'a envoyé
+par-dessus bord.
+
+264
+00:16:39,779 --> 00:16:40,973
+Quelle horreur !
+
+265
+00:16:41,047 --> 00:16:43,845
+J'ai lutté pour garder
+ma tête hors de l'eau.
+
+266
+00:16:43,916 --> 00:16:46,009
+C'était affreux, affreux !
+
+267
+00:16:46,085 --> 00:16:48,645
+Et vous avez réussi
+à remonter ?
+
+268
+00:16:48,721 --> 00:16:51,212
+Bien sûr,
+j'étais bien habillé.
+
+269
+00:17:05,071 --> 00:17:07,665
+Nous semblons mettre bien
+longtemps à arriver.
+
+270
+00:17:07,740 --> 00:17:10,573
+Oui, j'ai voulu
+prendre la jolie route.
+
+271
+00:17:13,245 --> 00:17:14,371
+C'est le chien !
+
+272
+00:17:16,082 --> 00:17:17,413
+Stop.
+Arrêtez-vous.
+
+273
+00:17:18,250 --> 00:17:19,979
+Holà, doucement.
+Arrêtez-vous, monsieur.
+
+274
+00:17:20,052 --> 00:17:21,110
+Tout doux, holà.
+
+275
+00:17:24,590 --> 00:17:26,581
+Je ne suis marié
+que depuis un mois.
+
+276
+00:17:27,426 --> 00:17:29,917
+Heureusement que je porte
+mon appareil.
+
+277
+00:17:33,432 --> 00:17:35,059
+- Dr Mortringer.
+- Oui ?
+
+278
+00:17:35,134 --> 00:17:38,797
+Nous cherchons toujours Selden,
+l'assassin à la hache.
+
+279
+00:17:39,438 --> 00:17:41,201
+- Oh, oui.
+- Oh, oui !
+
+280
+00:17:41,273 --> 00:17:42,365
+Je me rappelle.
+
+281
+00:17:42,441 --> 00:17:45,842
+Celui qui s'est échappé
+avant le décès de Sir Charles.
+
+282
+00:17:46,345 --> 00:17:48,870
+L'horrible type qui découpe
+les gens en morceaux
+
+283
+00:17:48,948 --> 00:17:50,916
+avant de les envoyer
+au Maire ?
+
+284
+00:17:50,983 --> 00:17:53,918
+Oui, celui-là même.
+Vous devriez faire attention.
+
+285
+00:17:53,986 --> 00:17:58,286
+Car beaucoup l'ont vu traîner
+autour de Baskerville Hall.
+
+286
+00:17:58,357 --> 00:18:01,520
+Et vous devriez dire
+à vos amis
+
+287
+00:18:01,594 --> 00:18:03,721
+de faire attention
+eux aussi.
+
+288
+00:18:03,796 --> 00:18:06,230
+- En avant, Perkins.
+- En avant, Perkins.
+
+289
+00:18:06,298 --> 00:18:08,698
+- En avant, Perkins.
+- En avant, Perkins.
+
+290
+00:18:08,868 --> 00:18:11,894
+- En avant, Perkins.
+- En avant, Perkins.
+
+291
+00:18:15,574 --> 00:18:18,065
+Au revoir, mes chers.
+Attrapez ce monstre !
+
+292
+00:18:19,311 --> 00:18:21,472
+Un couple fort étrange.
+
+293
+00:18:29,455 --> 00:18:31,013
+Oh, non, non pas ça !
+
+294
+00:18:31,090 --> 00:18:33,684
+Oh, mais pourquoi
+t'arrêtes-tu ?!
+
+295
+00:18:33,759 --> 00:18:36,421
+Vas-y ! Oui !
+
+296
+00:18:38,431 --> 00:18:42,424
+Depuis la mort de Sir Charles,
+les Barrymore n'arrêtent pas.
+
+297
+00:18:44,603 --> 00:18:46,696
+Bon sang de bonsoir,
+femme !
+
+298
+00:18:46,772 --> 00:18:48,865
+Dur de faire
+lever les vieux.
+
+299
+00:18:48,941 --> 00:18:51,307
+C'est vrai,
+j'ai tout essayé.
+
+300
+00:18:54,947 --> 00:18:57,711
+Dieu merci, vous voilà !
+
+301
+00:18:57,783 --> 00:19:00,377
+Je pensais que vous
+n'arriveriez jamais.
+
+302
+00:19:00,453 --> 00:19:03,217
+M. Barrymore, j'aimerais
+vous présenter le nouvel héritier,
+
+303
+00:19:03,289 --> 00:19:05,985
+Sir Henry Baskerville,
+et son ami le Dr Watson.
+
+304
+00:19:06,058 --> 00:19:08,652
+lls vont rester jusqu'à la lecture
+du testament, dimanche.
+
+305
+00:19:08,727 --> 00:19:12,993
+Dr Mortimer, nom d'un chien,
+pour qui vous prenez-vous,
+
+306
+00:19:13,065 --> 00:19:15,659
+à réveiller les gens
+à cette heure ?
+
+307
+00:19:15,734 --> 00:19:18,897
+- Mon époux et moi dormions.
+- Je souhaite que vous montriez
+
+308
+00:19:18,971 --> 00:19:23,567
+à Sir Henry et son invité,
+l'hospitalité de Baskerville Hall.
+
+309
+00:19:27,580 --> 00:19:31,072
+M. Barrymore va
+prendre vos frusques.
+
+310
+00:19:32,918 --> 00:19:34,909
+Oui.
+
+311
+00:19:36,055 --> 00:19:37,545
+Mme Barrymore ?
+
+312
+00:19:38,390 --> 00:19:40,915
+J'aimerais commencer
+sans plus attendre.
+
+313
+00:19:41,927 --> 00:19:44,919
+Auriez-vous l'amabilité
+de me montrer...
+
+314
+00:19:46,599 --> 00:19:48,260
+Me montrer mes...
+
+315
+00:19:49,702 --> 00:19:51,932
+- Mes indices.
+- Vos quoi ?
+
+316
+00:19:53,439 --> 00:19:55,373
+Mes indices.
+
+317
+00:19:55,441 --> 00:19:57,204
+Oh, vos indices !
+
+318
+00:19:57,276 --> 00:20:00,439
+Eh bien, voyons voir.
+Que puis-je vous montrer ?
+
+319
+00:20:00,513 --> 00:20:02,981
+Ceci, vous l'aurez deviné,
+est Baskerville Hall.
+
+320
+00:20:03,048 --> 00:20:05,039
+C'est un indice, ça ?
+
+321
+00:20:05,117 --> 00:20:08,382
+- Baskerville Hall !
+- Oui, tout à fait !
+
+322
+00:20:08,454 --> 00:20:10,615
+Certes, certes,
+cependant...
+
+323
+00:20:11,290 --> 00:20:14,555
+pardonnez-moi,
+mais ceci est juste le hall
+
+324
+00:20:14,627 --> 00:20:16,561
+de Baskerville Hall,
+n'est-ce pas ?
+
+325
+00:20:16,629 --> 00:20:19,257
+Oh, ouais.
+Tout le laisse à croire.
+
+326
+00:20:19,331 --> 00:20:21,265
+- C'est cela, oui.
+- Mme Barrymore ?
+
+327
+00:20:21,333 --> 00:20:24,063
+Nous voudrions à manger,
+nous sommes affamés.
+
+328
+00:20:24,136 --> 00:20:25,967
+Mon estomac crie famine !
+
+329
+00:20:26,038 --> 00:20:29,804
+Non mais enfin...
+lls ont de ces manières !
+
+330
+00:20:33,646 --> 00:20:36,080
+- Oui.
+- Ah, M. Barrymore.
+
+331
+00:20:36,148 --> 00:20:38,082
+Qu'apportes-tu là, Arthur ?
+
+332
+00:20:38,150 --> 00:20:42,246
+- Du fromage, Ada.
+- Du fromage, mince alors !
+
+333
+00:20:42,321 --> 00:20:45,381
+Comme nous sommes
+généreux ce soir !
+
+334
+00:20:45,457 --> 00:20:47,925
+C'est bien mieux que
+du coq au vin.
+
+335
+00:20:47,993 --> 00:20:49,585
+Et du thé froid.
+
+336
+00:20:49,662 --> 00:20:53,598
+Ça va vous fouetter
+les sangs en un rien de temps.
+
+337
+00:20:53,666 --> 00:20:56,260
+Pourquoi ne pas aller
+dans la salle à manger ?
+
+338
+00:20:56,335 --> 00:20:59,270
+Oh, oui, j'aimerais voir la salle
+à manger, la salle de bal et...
+
+339
+00:20:59,338 --> 00:21:02,205
+Et dire que tout ceci
+va être à moi !
+
+340
+00:21:02,274 --> 00:21:05,209
+Vous ne voulez pas voir
+la salle à manger, mon chou.
+
+341
+00:21:05,277 --> 00:21:09,213
+Vous n'allez pas me trimballer
+cette nourriture partout.
+
+342
+00:21:09,281 --> 00:21:11,374
+C'est un conseil d'ami.
+
+343
+00:21:11,450 --> 00:21:15,386
+Je ne vais pas aller
+nettoyer après vous deux
+
+344
+00:21:15,454 --> 00:21:16,887
+à une telle heure de la nuit.
+
+345
+00:21:16,956 --> 00:21:19,220
+Allez ! Mangez.
+
+346
+00:21:19,291 --> 00:21:21,282
+Gentils garçons.
+
+347
+00:21:23,629 --> 00:21:26,860
+- Et voilà.
+- Doux Jésus !
+
+348
+00:21:26,932 --> 00:21:29,730
+J'aurais pu vous donner
+la chambre principale, bien sûr.
+
+349
+00:21:29,802 --> 00:21:32,464
+Mais ça vous aurait trop
+intimidé, pas vrai ?
+
+350
+00:21:32,972 --> 00:21:34,735
+Mais oui, je connais
+les gens dans votre genre.
+
+351
+00:21:34,807 --> 00:21:37,571
+Vous aimez les choses simples,
+vous autres détectives.
+
+352
+00:21:37,643 --> 00:21:39,406
+Je ne suis pas détective, moi.
+
+353
+00:21:39,478 --> 00:21:42,470
+Bien sûr que non, mon chou ?
+Ça se voit.
+
+354
+00:21:43,315 --> 00:21:45,340
+Allez, venez mes petiots.
+
+355
+00:21:45,417 --> 00:21:48,250
+Je vais vous exposer
+les règles de la maison.
+
+356
+00:21:48,320 --> 00:21:50,754
+- Vous m'écoutez ?
+- Oui, oh, oui.
+
+357
+00:21:50,823 --> 00:21:53,917
+Mon époux et moi
+aimons nous coucher
+
+358
+00:21:53,993 --> 00:21:56,257
+vers 5h de l'après-midi.
+
+359
+00:21:56,328 --> 00:21:58,421
+On ne rajeunit pas vous savez.
+
+360
+00:21:58,497 --> 00:22:00,965
+Surtout Art,
+lui il se raidit pas mal.
+
+361
+00:22:01,033 --> 00:22:04,196
+Ou plutôt,
+il ne se raidit pas assez,
+
+362
+00:22:04,269 --> 00:22:06,567
+si vous voyez
+ce que j'veux dire.
+
+363
+00:22:06,639 --> 00:22:09,699
+Enfin bon, on aime se lever
+vers 2h de l'après-midi,
+
+364
+00:22:09,775 --> 00:22:12,710
+mais à ce moment là on doit
+s'occuper de nos propres affaires.
+
+365
+00:22:12,778 --> 00:22:15,872
+- Oui, certainement.
+- Mais de 4h
+
+366
+00:22:15,948 --> 00:22:18,712
+à 4h15,
+on est tout à vous.
+
+367
+00:22:18,784 --> 00:22:22,276
+ll vous faut quoi que ce soit,
+on vous l'apporte.
+
+368
+00:22:22,354 --> 00:22:26,381
+Et vous savez comment
+nous appeler, pas vrai ?
+
+369
+00:22:26,458 --> 00:22:28,722
+- Non.
+- Non ? Parfait.
+
+370
+00:22:28,794 --> 00:22:30,887
+C'est parfait.
+
+371
+00:22:30,963 --> 00:22:32,294
+Faites de beaux rêves.
+
+372
+00:22:47,146 --> 00:22:50,013
+J'adore votre pyjama, Watty.
+
+373
+00:22:50,082 --> 00:22:51,743
+Très élégant.
+
+374
+00:22:51,817 --> 00:22:53,341
+Merci, Sir Henry.
+
+375
+00:22:54,219 --> 00:22:55,811
+Nous ferions mieux
+de dormir
+
+376
+00:22:55,888 --> 00:22:58,049
+car une rude journée
+nous attend demain.
+
+377
+00:22:58,123 --> 00:23:00,921
+Si vous avez besoin de moi
+cette nuit, sifflez.
+
+378
+00:23:01,527 --> 00:23:03,461
+J'ai l'ouïe très fine.
+
+379
+00:23:03,529 --> 00:23:06,123
+Oui, j'ai le sommeil léger.
+
+380
+00:23:06,198 --> 00:23:07,859
+Moi aussi.
+
+381
+00:23:09,935 --> 00:23:12,267
+Bonté Divine !
+
+382
+00:23:13,238 --> 00:23:14,330
+CHAPlTRE lV
+
+383
+00:23:14,406 --> 00:23:18,103
+<i>Sherlock Holmes
+cherche du réconfort.</i>
+
+384
+00:23:22,781 --> 00:23:25,545
+Excusez-moi,
+suis-je bien au...
+
+385
+00:23:25,617 --> 00:23:29,553
+Centre de Remise en Forme et
+Relaxation Piccadilly de Paris ?
+
+386
+00:23:29,621 --> 00:23:31,213
+Absolument.
+
+387
+00:23:31,290 --> 00:23:35,283
+Serait-il possible
+d'avoir un...
+
+388
+00:23:35,360 --> 00:23:37,123
+Un massage ?
+
+389
+00:23:37,629 --> 00:23:39,790
+Mais certainement.
+
+390
+00:23:41,967 --> 00:23:44,197
+Voici une liste
+de nos services.
+
+391
+00:23:44,269 --> 00:23:45,429
+Merci.
+
+392
+00:23:46,772 --> 00:23:48,171
+Oui.
+
+393
+00:23:48,240 --> 00:23:52,734
+Qu'est-ce que la Pause Déjeuner
+de l'homme d'affaires ?
+
+394
+00:23:52,811 --> 00:23:56,747
+Et bien, pour cinq shillings,
+vous avez la simple friction
+
+395
+00:23:56,815 --> 00:23:58,908
+à la farine et à l'eau.
+
+396
+00:23:58,984 --> 00:24:02,283
+Mais la plupart de nos clients
+trouvent le Spécial César
+
+397
+00:24:02,354 --> 00:24:04,185
+bien plus stimulant.
+
+398
+00:24:04,256 --> 00:24:08,249
+C'est un rien plus onéreux,
+n'est-ce pas, 10 shillings.
+
+399
+00:24:08,927 --> 00:24:12,693
+Jacuzzi,
+masseuse vahiné,
+
+400
+00:24:12,765 --> 00:24:16,496
+et, bien sûr,
+une partie de pelote gratuite.
+
+401
+00:24:17,236 --> 00:24:20,330
+Drôle de façon d'écrire
+''pelote'', avec un ''R'' à la fin.
+
+402
+00:24:22,508 --> 00:24:24,840
+Et, y a-t-il un choix de...
+
+403
+00:24:26,011 --> 00:24:28,104
+- Dames ?
+- Naturellement.
+
+404
+00:24:28,180 --> 00:24:31,946
+Un superbe éventail
+de charmantes damoiselles
+
+405
+00:24:32,017 --> 00:24:35,384
+vous attend derrière
+ces rideaux.
+
+406
+00:24:35,454 --> 00:24:37,422
+Une guinée, je vous prie.
+
+407
+00:24:42,127 --> 00:24:44,891
+Bonsoir, mesdames.
+
+408
+00:24:44,963 --> 00:24:49,457
+J'ai un ticket pour
+le Boudoir des Bacchanales.
+
+409
+00:24:51,537 --> 00:24:53,027
+CHAPlTRE V
+
+410
+00:24:53,105 --> 00:24:57,474
+<i>Evénements étranges
+à Baskerville Hall.</i>
+
+411
+00:25:03,282 --> 00:25:04,909
+Debout, Watty,
+réveillez-vous !
+
+412
+00:25:06,418 --> 00:25:08,511
+Je regardais
+par la fenêtre,
+
+413
+00:25:08,587 --> 00:25:10,987
+et je crois que quelqu'un
+envoie des signaux.
+
+414
+00:25:31,944 --> 00:25:33,605
+M. Barrymore ?
+
+415
+00:25:34,947 --> 00:25:36,608
+Vous faites des signaux.
+
+416
+00:25:38,283 --> 00:25:41,047
+La lumière peut bien briller
+dans toute la propriété,
+
+417
+00:25:41,119 --> 00:25:44,213
+nous devons toujours illuminer
+la sombre obscurité.
+
+418
+00:25:44,289 --> 00:25:47,520
+J'ai remarqué un autre
+signal sur la lande.
+
+419
+00:25:47,593 --> 00:25:49,754
+C'est le code
+de la lande.
+
+420
+00:25:50,596 --> 00:25:52,029
+J'en ai entendu parler.
+
+421
+00:25:52,097 --> 00:25:56,693
+Vous feriez bien
+de retourner vous coucher.
+
+422
+00:25:57,603 --> 00:26:01,471
+- ll se fait tard.
+- Non, non et non, M. Barrymore.
+
+423
+00:26:01,540 --> 00:26:04,634
+Je dois aller dehors
+pour voir qui...
+
+424
+00:26:04,710 --> 00:26:08,202
+Bonne nuit, messieurs.
+
+425
+00:26:09,214 --> 00:26:11,045
+Eh bien, euh, enfin...
+
+426
+00:26:11,717 --> 00:26:14,185
+Si vous le prenez
+de cette façon.
+
+427
+00:26:14,253 --> 00:26:16,187
+- Bonne nuit !
+- C'est ça, bonne nuit.
+
+428
+00:26:16,255 --> 00:26:17,745
+Vous appelez ça
+des signaux ?
+
+429
+00:26:18,423 --> 00:26:21,256
+Moi je pourrais vous
+en montrer, des choses.
+
+430
+00:26:35,774 --> 00:26:38,607
+- C'est votre première visite ?
+- Oui, la première.
+
+431
+00:26:39,611 --> 00:26:41,101
+C'est quoi votre nom ?
+
+432
+00:26:41,947 --> 00:26:44,882
+Watson.
+John Watson.
+
+433
+00:26:44,950 --> 00:26:48,386
+- Et vous faites quoi, chéri ?
+- Je suis docteur.
+
+434
+00:26:48,453 --> 00:26:51,388
+Mon jules a toujours
+voulu devenir docteur.
+
+435
+00:26:51,456 --> 00:26:53,720
+Mais maintenant
+il bosse sur les quais.
+
+436
+00:26:53,792 --> 00:26:56,283
+Z'auriez pas des
+contacts des fois ?
+
+437
+00:26:56,361 --> 00:26:59,387
+Quelqu'un qui pourrait
+lui donner sa chance ?
+
+438
+00:26:59,464 --> 00:27:00,726
+Pas vraiment, non.
+
+439
+00:27:00,799 --> 00:27:05,327
+ll veut pas faire d'opérations
+ni ouvrir les gens, savez.
+
+440
+00:27:05,404 --> 00:27:08,498
+Mais quelques
+diagnostics ça lui plairait.
+
+441
+00:27:08,573 --> 00:27:10,336
+Vous savez, histoire
+de se faire la main.
+
+442
+00:27:10,409 --> 00:27:12,001
+ll est très futé.
+
+443
+00:27:12,077 --> 00:27:15,012
+L'autre jour il m'a dit
+que j'avais un rhume.
+
+444
+00:27:15,080 --> 00:27:16,911
+Allez, tournez-vous.
+
+445
+00:27:20,752 --> 00:27:22,014
+Oh, excusez-moi, chéri.
+
+446
+00:27:22,087 --> 00:27:24,851
+Et vous appelez ça
+le Boudoir des Bacchanales ?
+
+447
+00:27:24,923 --> 00:27:27,858
+Ça ressemble à une chambre
+de tortures médiévale !
+
+448
+00:27:27,926 --> 00:27:30,019
+Vous vous entraînez sur quoi ?
+Des éléphants ?
+
+449
+00:27:30,095 --> 00:27:33,292
+Une minute !
+Je connais ce visage !
+
+450
+00:27:33,365 --> 00:27:35,959
+Eh, Patsy, Nell !
+
+451
+00:27:36,034 --> 00:27:39,367
+Regardez qui s'est fait
+masser par la vieille Siv !
+
+452
+00:27:40,038 --> 00:27:42,871
+Si c'est pas Sherlock Holmes !
+
+453
+00:27:43,976 --> 00:27:46,672
+T'as raison, Siv, c'est lui !
+
+454
+00:27:46,745 --> 00:27:48,337
+Vous avez grossi, non ?
+
+455
+00:27:48,413 --> 00:27:50,347
+Ouais, regardez-moi ça !
+
+456
+00:27:50,415 --> 00:27:53,907
+Vous ressemblez pas beaucoup
+à vos illustrations.
+
+457
+00:27:54,419 --> 00:27:58,355
+Vous n'êtes pas ce à quoi
+je m'attendais non plus !
+
+458
+00:27:58,423 --> 00:28:01,950
+Le service
+n'est pas compris !
+
+459
+00:28:02,027 --> 00:28:04,188
+J'avais remarqué !
+
+460
+00:28:23,081 --> 00:28:26,175
+- Que faites-vous là, Sir Henry ?
+- J'étais terrifié !
+
+461
+00:28:26,251 --> 00:28:29,516
+Vous entendez tous ces bruits
+affreux venant d'en bas ?
+
+462
+00:28:29,588 --> 00:28:32,421
+Ça dure depuis trois heures !
+
+463
+00:28:32,491 --> 00:28:34,152
+Pourquoi ne m'avez-vous pas
+réveillé plus tôt ?
+
+464
+00:28:34,226 --> 00:28:37,992
+Chevaliers de la
+Table Ronde...
+
+465
+00:28:38,063 --> 00:28:40,827
+Goûtons voir si
+le vin est bon...
+
+466
+00:28:40,899 --> 00:28:43,163
+Goûtons voir, oui, oui, oui...
+
+467
+00:28:43,235 --> 00:28:45,169
+Goûtons voir, non, non, non...
+
+468
+00:28:45,237 --> 00:28:47,569
+Goûtons voir si
+le vin est bon.
+
+469
+00:28:47,639 --> 00:28:50,870
+Goûtons voir si
+le vin est bon.
+
+470
+00:28:50,942 --> 00:28:53,934
+Et demain,
+tous à l'eau plate !
+
+471
+00:28:54,946 --> 00:28:58,382
+Arrête ça tout de suite.
+Je te préviens !
+
+472
+00:28:58,450 --> 00:29:01,817
+- Je ne fais que m'amuser, Ada.
+- Bonsoir, bonsoir.
+
+473
+00:29:01,887 --> 00:29:05,653
+Que se passe-t-il donc
+dans ma salle à manger ?
+
+474
+00:29:05,724 --> 00:29:08,921
+Une petite réunion
+familiale, si je ne m'abuse.
+
+475
+00:29:08,994 --> 00:29:11,861
+Ethel, la sœur de M. Barrymore
+nous a rendu une petite visite.
+
+476
+00:29:11,930 --> 00:29:14,922
+Dis bonjour, Ethel.
+
+477
+00:29:15,000 --> 00:29:18,401
+Goûtons voir si
+le vin est bon !
+
+478
+00:29:18,470 --> 00:29:21,564
+Allons, ça suffit !
+ll commence à s'énerver.
+
+479
+00:29:21,640 --> 00:29:23,608
+C'est toujours pareil,
+c'est la viande.
+
+480
+00:29:24,843 --> 00:29:27,073
+Tiens, prends un raisin.
+
+481
+00:29:27,913 --> 00:29:30,507
+Bref,
+je n'ai pas souvenir
+
+482
+00:29:30,582 --> 00:29:33,016
+de vous avoir invité,
+Dr Watson,
+
+483
+00:29:33,085 --> 00:29:35,519
+ni vous, Sir H.
+
+484
+00:29:35,587 --> 00:29:36,918
+Excusez-nous.
+
+485
+00:29:36,988 --> 00:29:39,013
+Pardon de respirer !
+
+486
+00:29:39,091 --> 00:29:41,787
+Je n'ai pas besoin
+que le ciel me tombe dessus.
+
+487
+00:29:42,928 --> 00:29:44,691
+Quelle méchanceté !
+
+488
+00:29:44,763 --> 00:29:47,357
+- Toute cette nourriture.
+- Oui, je sais !
+
+489
+00:29:47,432 --> 00:29:50,026
+Vous avez remarqué cette
+femme à la grosse voix
+
+490
+00:29:50,102 --> 00:29:52,195
+avec son arme immense ?
+
+491
+00:29:52,270 --> 00:29:53,362
+Oui, bien sûr.
+
+492
+00:29:53,438 --> 00:29:56,532
+Pensez-vous qu'il s'agisse
+de Selden, l'assassin à la hache ?
+
+493
+00:29:56,608 --> 00:29:59,042
+Oh, non. Non, non.
+
+494
+00:29:59,111 --> 00:30:01,705
+Vous aurez certainement
+noté la forte ressemblance
+
+495
+00:30:01,780 --> 00:30:03,509
+entre elle et M. Barrymore.
+
+496
+00:30:03,582 --> 00:30:06,517
+Même yeux, même nez,
+même moustache.
+
+497
+00:30:06,585 --> 00:30:08,849
+- Non, c'est bien sa sœur.
+- Oh, certes !
+
+498
+00:30:08,920 --> 00:30:12,185
+- Oui, évidemment.
+- Suis-je donc bête.
+
+499
+00:30:12,257 --> 00:30:15,192
+Voyez-vous, je suis détective,
+j'ai l'œil pour ça.
+
+500
+00:30:15,260 --> 00:30:17,023
+J'espère qu'il fera
+beau demain.
+
+501
+00:30:17,095 --> 00:30:19,325
+J'ai hâte
+de découvrir mes landes.
+
+502
+00:30:19,397 --> 00:30:21,957
+Ce sera charmant.
+Partir voir vos landes.
+
+503
+00:30:22,667 --> 00:30:23,429
+CHAPlTRE Vl
+
+504
+00:30:23,502 --> 00:30:28,166
+<i>Quelque peu affamé,
+Holmes rend visite à sa mère.</i>
+
+505
+00:30:36,114 --> 00:30:37,274
+Oviatt ?
+
+506
+00:30:37,949 --> 00:30:39,109
+Mme Tindale ?
+
+507
+00:30:40,118 --> 00:30:41,380
+Mme Gray ?
+
+508
+00:30:42,387 --> 00:30:45,720
+Je ne pense pas que
+les esprits apprécieront.
+
+509
+00:30:45,790 --> 00:30:46,950
+Merci.
+
+510
+00:30:47,626 --> 00:30:50,117
+Mains sur la table,
+les doigts se touchent.
+
+511
+00:30:54,466 --> 00:30:55,956
+Etes-vous là ?
+
+512
+00:30:56,968 --> 00:30:59,766
+Etes-vous là,
+M. Taramasalata ?
+
+513
+00:30:59,838 --> 00:31:02,773
+Parlez,
+qui que vous soyez !
+
+514
+00:31:03,441 --> 00:31:05,033
+N'avez-vous aucune
+parole de réconfort
+
+515
+00:31:05,110 --> 00:31:08,045
+de M. Oviatt,
+feu mon tendre époux ?
+
+516
+00:31:08,113 --> 00:31:10,513
+<i>ll joue au tennis</i>
+
+517
+00:31:10,582 --> 00:31:14,382
+et vous recommande
+d'utiliser le bain de bouche.
+
+518
+00:31:14,452 --> 00:31:19,549
+<i>Puissent les esprits</i>
+<i>vous guider, Mme Oviatt.</i>
+
+519
+00:31:19,624 --> 00:31:21,888
+Oh, oui.
+Oui, je le ferai.
+
+520
+00:31:21,960 --> 00:31:24,622
+Y a-t-il d'autres esprits
+dans cette pièce ?
+
+521
+00:31:26,131 --> 00:31:28,258
+Lévite, ô table !
+
+522
+00:31:28,333 --> 00:31:30,267
+<i>Fais-nous connaître</i>
+<i>ta présence.</i>
+
+523
+00:31:31,436 --> 00:31:34,496
+lls sont vraiment ici.
+lls sont vraiment ici !
+
+524
+00:31:35,140 --> 00:31:36,732
+Lévite, ô table !
+
+525
+00:31:37,842 --> 00:31:39,935
+<i>Lévite, ô table !</i>
+
+526
+00:31:40,011 --> 00:31:42,445
+<i>Descendez, ô esprits.</i>
+
+527
+00:31:42,514 --> 00:31:46,575
+<i>Rejoignez-nous dans cette</i>
+<i>misérable demeure.</i>
+
+528
+00:31:46,651 --> 00:31:48,642
+<i>- Lévite, ô table.</i>
+- Stop ! Arrêtez, lris !
+
+529
+00:31:50,522 --> 00:31:51,989
+Table ?!
+
+530
+00:31:52,857 --> 00:31:54,757
+Lévite, ô table !
+
+531
+00:31:57,829 --> 00:31:59,694
+Cette table
+est dure d'oreille.
+
+532
+00:32:04,002 --> 00:32:07,096
+Veuillez m'excuser. Je dois
+m'occuper de cet esprit malin.
+
+533
+00:32:07,772 --> 00:32:10,263
+Ne quittez cette pièce
+que par la porte.
+
+534
+00:32:11,743 --> 00:32:12,903
+Sherl !
+
+535
+00:32:13,578 --> 00:32:16,775
+- Toi, mon fils, un voleur !
+- Je passais dans le coin.
+
+536
+00:32:16,848 --> 00:32:19,112
+J'ai pensé laisser mon linge
+et manger un morceau.
+
+537
+00:32:19,184 --> 00:32:20,947
+- Je pensais que tu dormais.
+- Dormir ?!
+
+538
+00:32:21,019 --> 00:32:24,785
+Je n'ai pas dormi depuis 18 ans,
+depuis la mort de ton père.
+
+539
+00:32:24,856 --> 00:32:28,121
+- Laisse père hors de ça, Mère.
+- Ah, pourquoi donc ?
+
+540
+00:32:28,193 --> 00:32:30,457
+Pourquoi ?
+ll est mort par ta faute.
+
+541
+00:32:30,528 --> 00:32:33,463
+Seigneur, passer sa vie à fourrer
+son nez dans la vie des gens !
+
+542
+00:32:33,531 --> 00:32:35,294
+Détective, détective,
+détective !
+
+543
+00:32:35,367 --> 00:32:38,962
+Pesticide ! Mon propre fils
+coupable de pesticide !
+
+544
+00:32:39,037 --> 00:32:42,029
+- C'est ''parricide'', Mère.
+- Ah, tu l'admets donc ?
+
+545
+00:32:42,107 --> 00:32:44,098
+Tu ne changeras jamais.
+
+546
+00:32:44,175 --> 00:32:47,611
+Tu le traitais comme tu traites
+désormais ce pauvre Watty !
+
+547
+00:32:47,679 --> 00:32:49,772
+Watson va très bien.
+
+548
+00:32:49,848 --> 00:32:51,941
+''Très bien'' mon œil !
+
+549
+00:32:52,017 --> 00:32:53,450
+À d'autres, oui.
+
+550
+00:32:53,518 --> 00:32:54,951
+Ne me dis rien.
+
+551
+00:32:55,020 --> 00:32:58,478
+Toi et Watty
+vous êtes disputés et il t'a quitté.
+
+552
+00:32:58,556 --> 00:33:00,148
+Je ne peux certes pas
+lui en vouloir.
+
+553
+00:33:00,225 --> 00:33:02,921
+Et comme tu n'as personne
+pour s'occuper de toi,
+
+554
+00:33:02,994 --> 00:33:06,430
+tu viens ici voler le rôti
+d'une pauvre petite vieille.
+
+555
+00:33:06,498 --> 00:33:08,591
+Mme Mott m'a dit
+que tu es allé
+
+556
+00:33:08,667 --> 00:33:10,259
+au bordel
+en bas de la rue.
+
+557
+00:33:10,335 --> 00:33:13,099
+Une femme qui pourrait être
+ma mère tripotant mon fils !
+
+558
+00:33:13,171 --> 00:33:15,605
+Je dis que c'est dégoûtant !
+Dégoûtant !
+
+559
+00:33:15,674 --> 00:33:17,107
+Où est Watty ?
+Que lui est-il arrivé ?
+
+560
+00:33:17,175 --> 00:33:19,268
+- Mère...
+- Non, ne me dis rien.
+
+561
+00:33:19,344 --> 00:33:21,437
+Oh, mon Dieu,
+j'ai une vision.
+
+562
+00:33:21,513 --> 00:33:25,449
+Un volcan, des palmiers,
+
+563
+00:33:25,517 --> 00:33:26,643
+une île déserte.
+
+564
+00:33:26,718 --> 00:33:28,811
+Quand vas-tu arrêter
+cette arnaque de voyance ?
+
+565
+00:33:28,887 --> 00:33:32,482
+- Ça va nous attirer des ennuis.
+- Je ne répondrai pas à ça.
+
+566
+00:33:32,557 --> 00:33:35,492
+Ou serais-je en état d'arrestation
+pour tes méfaits à toi ?
+
+567
+00:33:35,560 --> 00:33:37,892
+Pourrais-je avoir
+quelque chose à manger ?
+
+568
+00:33:39,898 --> 00:33:44,665
+Tu peux avoir tout ce que tu
+veux de moi, mon petit bijou.
+
+569
+00:33:44,736 --> 00:33:48,832
+lris et moi sommes ici
+pour t'aider, n'est-ce pas, lris ?
+
+570
+00:33:48,907 --> 00:33:50,932
+Elle est mon lien avec
+le monde de l'au-delà.
+
+571
+00:33:51,009 --> 00:33:52,340
+Oh, oui !
+
+572
+00:33:54,679 --> 00:33:56,613
+- Ça suffit, lris.
+- Mère !
+
+573
+00:33:56,681 --> 00:33:58,945
+Quand elle rit,
+elle est trop voyante.
+
+574
+00:33:59,017 --> 00:34:01,178
+Je connais
+mes affaires, Sherl.
+
+575
+00:34:01,786 --> 00:34:05,586
+Et au fait, ne parle jamais
+de mort devant lris.
+
+576
+00:34:08,760 --> 00:34:11,888
+Veux-tu bien préparer une tasse
+de thé pour mon fils, lris ?
+
+577
+00:34:11,963 --> 00:34:14,329
+Oh, oui.
+
+578
+00:34:15,266 --> 00:34:17,700
+C'est ça, grosse vache.
+
+579
+00:34:18,269 --> 00:34:21,534
+- Alors, mon petit Sherl...
+- Mère, ne m'appelle pas ''Sherl.''
+
+580
+00:34:21,606 --> 00:34:24,268
+Je t'ai toujours appelé Sherl,
+et je le ferai toujours.
+
+581
+00:34:25,276 --> 00:34:27,540
+Tu aurais dû le voir quand
+c'était une petite fille.
+
+582
+00:34:27,612 --> 00:34:29,876
+Je n'ai jamais été
+une petite fille, Mère.
+
+583
+00:34:29,948 --> 00:34:33,213
+Avec ses jolies boucles blondes,
+tellement coquine.
+
+584
+00:34:33,284 --> 00:34:35,718
+Je te mettais les robes
+les plus adorables.
+
+585
+00:34:35,787 --> 00:34:38,051
+Oh, tu étais la plus belle
+petite fille du quartier.
+
+586
+00:34:38,123 --> 00:34:40,387
+Tout est parti maintenant ?
+
+587
+00:34:40,458 --> 00:34:41,789
+Tout est parti ?!
+
+588
+00:34:42,794 --> 00:34:44,625
+Enfin, laisse-moi te
+mettre au courant
+
+589
+00:34:44,696 --> 00:34:47,221
+de toutes les merveilleuses
+choses qui se sont passées ici.
+
+590
+00:34:47,298 --> 00:34:49,061
+Je t'ai parlé de mon
+attaque cardiaque, non ?
+
+591
+00:34:49,134 --> 00:34:50,465
+- Oui, Mère.
+- Oui.
+
+592
+00:34:50,535 --> 00:34:53,561
+Enlève-moi donc ces vêtements,
+ils sentent trop mauvais.
+
+593
+00:34:53,638 --> 00:34:55,572
+- Allez, déshabille-toi.
+- Mais je veux manger.
+
+594
+00:34:55,640 --> 00:34:59,303
+En fait je crois que plusieurs
+choses l'on causée, tu sais.
+
+595
+00:34:59,978 --> 00:35:02,503
+Mon frère est venu me voir,
+mon frère, Bernard.
+
+596
+00:35:02,580 --> 00:35:04,514
+ll était plein
+comme une outre.
+
+597
+00:35:04,582 --> 00:35:07,847
+ll a été si grossier avec moi,
+alors je lui ai dit, ''Bernard'',
+
+598
+00:35:07,919 --> 00:35:09,511
+''Ne sois pas si grossier.''
+
+599
+00:35:09,587 --> 00:35:12,021
+Je lui ai dit, ''Ne sois pas
+si grossier, putain.''
+
+600
+00:35:12,090 --> 00:35:14,752
+J'étais si bouleversée.
+Je suis allée faire les courses.
+
+601
+00:35:14,826 --> 00:35:17,420
+ll me fallait acheter
+du poisson pour Sparky.
+
+602
+00:35:18,096 --> 00:35:20,189
+Je fais toujours
+ce trajet à pied.
+
+603
+00:35:20,265 --> 00:35:22,426
+Sur le chemin du retour,
+je rencontre Mme Pratt.
+
+604
+00:35:23,101 --> 00:35:25,365
+Et elle me dit,
+''Mme Holmes,
+
+605
+00:35:25,437 --> 00:35:28,702
+il paraît que vous racontez
+des choses sur ma Joyce.''
+
+606
+00:35:28,773 --> 00:35:30,536
+Et moi je dis,
+''Je ne comprends pas,
+
+607
+00:35:30,608 --> 00:35:32,371
+que voulez-vous dire ?''
+
+608
+00:35:32,444 --> 00:35:36,039
+Elle dit,
+''À propos de son futur bébé
+
+609
+00:35:36,114 --> 00:35:38,105
+et du fait
+qu'elle est célibataire.''
+
+610
+00:35:39,117 --> 00:35:41,051
+Et je dis, ''Mme Pratt...''
+
+611
+00:35:41,119 --> 00:35:45,681
+''Pardon, je n'ai rien dit
+sur votre bébé.''
+
+612
+00:35:45,757 --> 00:35:48,726
+Je dis, ''J'ai mieux à faire
+de mon temps.''
+
+613
+00:35:48,793 --> 00:35:51,819
+J'étais si bouleversée !
+Je suis rentrée pour me coucher.
+
+614
+00:35:51,896 --> 00:35:56,731
+Et puis Papa est apparu
+au pied de mon lit.
+
+615
+00:35:58,970 --> 00:36:01,905
+Et il me dit,
+''Viens, Ada.''
+
+616
+00:36:02,740 --> 00:36:06,005
+''Viens'', qu'il me dit,
+''Tu es fatiguée. Viens avec moi.
+
+617
+00:36:06,077 --> 00:36:08,841
+Tu as eu ton lot.''
+Et moi je dis, ''Non, mon amour.''
+
+618
+00:36:08,913 --> 00:36:13,077
+Je dis, ''Non. Je dois
+encore rester ici bas...
+
+619
+00:36:14,085 --> 00:36:18,419
+jusqu'à ce que notre petit
+garçon soit marié.''
+
+620
+00:36:19,257 --> 00:36:21,521
+Enfin bref, le matin suivant,
+je me suis réveillée.
+
+621
+00:36:21,593 --> 00:36:24,153
+Je me réveille le lendemain
+croyant avoir une névralgie,
+
+622
+00:36:24,229 --> 00:36:25,389
+la fenêtre
+était ouverte,
+
+623
+00:36:25,463 --> 00:36:27,192
+et il y avait un courant
+d'air très froid.
+
+624
+00:36:27,265 --> 00:36:29,358
+Le docteur m'a dit que
+j'avais fait une attaque,
+
+625
+00:36:29,434 --> 00:36:32,369
+parce que mon visage était
+tout de travers, comme ça.
+
+626
+00:36:32,437 --> 00:36:34,530
+Bien sûr,
+maintenant c'est parti.
+
+627
+00:36:34,606 --> 00:36:38,736
+C'est lris qui m'a trouvée.
+J'étais 4 heures dans les toilettes !
+
+628
+00:36:38,810 --> 00:36:40,903
+Enfin, assez parlé de ça.
+
+629
+00:36:40,979 --> 00:36:42,241
+Et Watty, alors ?
+
+630
+00:36:42,313 --> 00:36:44,873
+Je suppose qu'il n'est plus
+qu'un intermittent pour toi.
+
+631
+00:36:44,949 --> 00:36:47,543
+Mère, reste en dehors
+de mes affaires !
+
+632
+00:36:47,619 --> 00:36:49,883
+Ne me dis pas
+quoi faire.
+
+633
+00:36:49,954 --> 00:36:52,718
+Je me mêle de tes affaires
+si je veux.
+
+634
+00:36:52,790 --> 00:36:55,224
+Je suis ta mère. Je m'en mêle
+quand ça me chante.
+
+635
+00:36:55,293 --> 00:36:59,059
+Et Watty ! Tu sais bien qu'il
+ne peut rien faire tout seul.
+
+636
+00:36:59,130 --> 00:37:00,893
+Mère, s'il est en danger,
+
+637
+00:37:00,965 --> 00:37:04,992
+j'engagerai un autre intermittent,
+ou bien j'irai là bas moi-même.
+
+638
+00:37:05,069 --> 00:37:06,058
+J'espère bien.
+
+639
+00:37:06,137 --> 00:37:08,970
+Parce que sinon,
+c'est moi qui irai.
+
+640
+00:37:09,040 --> 00:37:11,167
+Tu as entendu ?
+C'est moi qui irai !
+
+641
+00:37:11,242 --> 00:37:13,972
+- Tout ira bien.
+- Et tu ne le regretteras pas.
+
+642
+00:37:14,045 --> 00:37:16,980
+- Tu ne le regretteras pas !
+- C'est un gentil garçon.
+
+643
+00:37:17,048 --> 00:37:19,073
+Ne t'en mêle pas, lris.
+
+644
+00:37:36,100 --> 00:37:38,193
+Quelle matinée odieuse !
+
+645
+00:37:38,269 --> 00:37:40,203
+Et tout ce brouillard.
+
+646
+00:37:40,271 --> 00:37:43,206
+Watty !
+Watty, où êtes-vous ?
+
+647
+00:37:43,274 --> 00:37:45,708
+Watty ! Debout, Watty.
+
+648
+00:37:45,777 --> 00:37:47,108
+Bonjour, Sir Henry.
+
+649
+00:37:49,781 --> 00:37:52,545
+On dirait que c'est une
+journée sacrément humide.
+
+650
+00:37:52,617 --> 00:37:56,485
+Oui, je sais.
+Mes cheveux vont friser.
+
+651
+00:37:56,554 --> 00:37:58,988
+Je vais envoyer
+un télégramme à Holmes
+
+652
+00:37:59,057 --> 00:38:00,820
+au sujet de la sœur
+de Barrymore.
+
+653
+00:38:00,892 --> 00:38:03,588
+J'aimerais beaucoup
+vous accompagner.
+
+654
+00:38:03,661 --> 00:38:05,424
+Je vous ai dit que
+c'était trop dangereux.
+
+655
+00:38:05,496 --> 00:38:08,158
+Vous restez ici
+et continuez votre tricot.
+
+656
+00:38:08,900 --> 00:38:10,993
+Bonjour, messieurs.
+
+657
+00:38:11,069 --> 00:38:12,468
+Bonjour, M. Barrymore.
+
+658
+00:38:13,071 --> 00:38:15,562
+Belle journée, n'est-il pas ?
+
+659
+00:38:15,640 --> 00:38:18,575
+Je n'ai jamais vu un brouillard
+aussi dense de toute ma vie.
+
+660
+00:38:18,643 --> 00:38:21,077
+Cela doit être infernal dehors.
+
+661
+00:38:21,145 --> 00:38:23,579
+Je ne vais pas pouvoir
+mener mon enquête.
+
+662
+00:38:23,648 --> 00:38:26,742
+Pas du tout,
+il fait splendide dehors.
+
+663
+00:38:26,818 --> 00:38:28,080
+Comment ça ?
+
+664
+00:38:28,152 --> 00:38:30,245
+Vous connaissez le dicton,
+
+665
+00:38:30,321 --> 00:38:34,417
+''Sur la lande, purée de pois,
+Ciel lumineux chez soi.
+
+666
+00:38:34,492 --> 00:38:39,191
+Maison noyée de brouillard,
+Soleil radieux pour les renards.''
+
+667
+00:38:39,263 --> 00:38:41,925
+- Je n'ai jamais entendu cela.
+- Moi non plus.
+
+668
+00:38:42,934 --> 00:38:44,265
+Voyez par vous-même.
+
+669
+00:38:48,272 --> 00:38:50,672
+Oh, quel temps splendide !
+
+670
+00:38:50,742 --> 00:38:53,506
+Vous pourrez trouver
+vos indices après tout.
+
+671
+00:38:53,578 --> 00:38:56,069
+Oh, oui ! Magnifique, non ?
+
+672
+00:38:56,147 --> 00:38:57,409
+Dites-moi, Barrymore,
+
+673
+00:38:57,482 --> 00:39:00,246
+pourriez-vous me montrer
+l'endroit exact
+
+674
+00:39:00,318 --> 00:39:02,843
+où Sir Charles est mort ?
+
+675
+00:39:02,920 --> 00:39:05,514
+Oui, je m'en souviens
+très bien.
+
+676
+00:39:05,590 --> 00:39:10,357
+Ma femme refusait de lui laisser
+la salle de bain interne,
+
+677
+00:39:10,428 --> 00:39:13,522
+alors il a dû venir
+jusqu'à celle-ci.
+
+678
+00:39:13,598 --> 00:39:14,758
+Je vois.
+
+679
+00:39:18,569 --> 00:39:22,335
+Voici Mme Starborgling,
+notre locataire.
+
+680
+00:39:22,407 --> 00:39:24,841
+Elle squatte là
+depuis des années.
+
+681
+00:39:24,909 --> 00:39:28,174
+Vous voulez dire que mon
+pauvre, tendre et cher oncle,
+
+682
+00:39:28,246 --> 00:39:30,840
+Sir Charles, est mort
+en essayant d'atteindre
+
+683
+00:39:30,915 --> 00:39:33,509
+ces horribles WC ?
+
+684
+00:39:33,584 --> 00:39:35,677
+Oui, c'est cela même.
+
+685
+00:39:35,753 --> 00:39:37,914
+Oh, quelle horreur !
+
+686
+00:39:39,590 --> 00:39:42,354
+Tiens, tiens !
+
+687
+00:39:42,427 --> 00:39:44,258
+Mais qu'avons-nous là ?
+
+688
+00:39:45,430 --> 00:39:47,694
+Bonté Divine !
+
+689
+00:39:47,765 --> 00:39:49,357
+Si je ne me trompe,
+
+690
+00:39:49,434 --> 00:39:52,096
+voici les traces de pas
+d'un chien géant !
+
+691
+00:39:52,770 --> 00:39:54,260
+Qu'en pensez-vous,
+Barrymore ?
+
+692
+00:39:54,939 --> 00:39:59,706
+Je ne fourre jamais mon nez
+dans les affaires des autres.
+
+693
+00:39:59,777 --> 00:40:02,541
+Quoi qu'il en soit,
+je dois parler aux voisins.
+
+694
+00:40:02,613 --> 00:40:04,205
+Où habitent les Stapleton ?
+
+695
+00:40:04,282 --> 00:40:07,945
+À Merripit Hall,
+sur la lande.
+
+696
+00:40:08,786 --> 00:40:11,050
+Mais c'est
+un endroit dangereux.
+
+697
+00:40:11,122 --> 00:40:15,286
+Vous pourriez vous faire
+happer par le Marécage Poisseux.
+
+698
+00:40:15,960 --> 00:40:17,723
+Très déplaisant.
+
+699
+00:40:17,795 --> 00:40:20,889
+Peu importe, j'ai un travail
+à faire, M. Barrymore.
+
+700
+00:40:20,965 --> 00:40:23,229
+Sir Henry, restez
+dans votre chambre,
+
+701
+00:40:23,301 --> 00:40:24,893
+surtout n'allez pas
+sur la lande.
+
+702
+00:40:24,969 --> 00:40:26,732
+Le chien
+est venu jusqu'ici...
+
+703
+00:40:26,804 --> 00:40:30,103
+- ...pour tuer Sir Charles.
+- Je ne quitterai pas ma chambre.
+
+704
+00:40:30,174 --> 00:40:31,664
+CHAPlTRE Vll
+
+705
+00:40:31,743 --> 00:40:34,405
+<i>Où Watson
+envoie un télégramme</i>
+
+706
+00:40:34,479 --> 00:40:36,777
+<i>et rencontre son
+premier suspect.</i>
+
+707
+00:40:40,985 --> 00:40:43,146
+Enquête...
+
+708
+00:40:44,489 --> 00:40:46,650
+Enquête...
+
+709
+00:41:32,870 --> 00:41:35,202
+BUREAU DE POSTE
+DE BASKERVlLLE
+
+710
+00:41:37,475 --> 00:41:39,636
+Bonjour, monsieur.
+Que puis-je pour vous ?
+
+711
+00:41:46,150 --> 00:41:48,414
+- Vous travaillez ici ?
+- Oui, monsieur.
+
+712
+00:41:48,486 --> 00:41:50,647
+Baissez d'un ton,
+voulez-vous ?
+
+713
+00:41:51,155 --> 00:41:53,589
+J'ai un message
+très confidentiel
+
+714
+00:41:53,658 --> 00:41:55,751
+à envoyer à Londres.
+
+715
+00:41:55,827 --> 00:41:56,987
+Merci.
+
+716
+00:41:57,995 --> 00:42:00,429
+''Chi-fer Hoi-flmes, sti-fop.
+
+717
+00:42:00,498 --> 00:42:03,433
+Commi-fencé
+enqui-fête, sti-fop.''
+
+718
+00:42:03,501 --> 00:42:05,492
+- C'est ça.
+- C'est plutôt banal, monsieur.
+
+719
+00:42:05,570 --> 00:42:08,368
+''Cher Holmes, stop.
+Commencé enquête, stop.
+
+720
+00:42:08,439 --> 00:42:11,875
+Arrêté enquête pour aujourd'hui,
+stop. Travaille non stop, stop.''
+
+721
+00:42:11,943 --> 00:42:14,207
+Bonté Divine, mon ami,
+vous avez décodé mon code !
+
+722
+00:42:14,278 --> 00:42:16,712
+On ne l'utilise plus beaucoup,
+trop vieux, démodé.
+
+723
+00:42:16,781 --> 00:42:18,544
+- Oh, je...
+- Maintenant,
+
+724
+00:42:18,616 --> 00:42:20,880
+...si vous voulez un code
+vraiment indécodable,
+
+725
+00:42:20,952 --> 00:42:23,045
+vous devez causer
+à ma Glynis.
+
+726
+00:42:23,120 --> 00:42:25,054
+Glynis !
+
+727
+00:42:25,122 --> 00:42:28,387
+- Ce monsieur désire un code !
+- Oh, doucement...
+
+728
+00:42:28,459 --> 00:42:31,223
+Confidentiel, top secret !
+
+729
+00:42:31,295 --> 00:42:33,058
+Elle arrive, monsieur.
+
+730
+00:42:33,130 --> 00:42:35,030
+- Mauvaise nuit, madame.
+- Pardon ?
+
+731
+00:42:35,099 --> 00:42:38,865
+Elle vous montre comment
+fonctionne le code.
+
+732
+00:42:38,936 --> 00:42:40,028
+J'y comprends rien.
+
+733
+00:42:40,104 --> 00:42:42,368
+C'est le code des contraires.
+
+734
+00:42:42,940 --> 00:42:46,398
+Tout ce qu'elle dit est
+le contraire de ce qu'elle pense.
+
+735
+00:42:46,477 --> 00:42:49,071
+- ''Bonjour, monsieur'' c'est...
+- ''Mauvaise nuit, madame.''
+
+736
+00:42:49,146 --> 00:42:51,580
+C'est ça.
+Tiens, code-moi ça, Glynis.
+
+737
+00:42:51,649 --> 00:42:53,913
+- Pleins de soucis.
+- Brave fille.
+
+738
+00:42:53,985 --> 00:42:56,078
+''Cher Holmes, stop.''
+
+739
+00:42:56,153 --> 00:42:58,587
+''Horrible Holmes, allez.
+
+740
+00:42:58,656 --> 00:43:00,988
+Arrêté enquête, allez.
+
+741
+00:43:01,058 --> 00:43:03,686
+Re-arrête enquête hier, allez.
+
+742
+00:43:03,761 --> 00:43:05,661
+Travaille pas non-stop, allez.''
+
+743
+00:43:05,730 --> 00:43:08,858
+Moi j'en ai un bien meilleur.
+Personne ne l'a jamais décodé.
+
+744
+00:43:08,933 --> 00:43:11,527
+Oh, c'est vrai, Mme Grainger,
+le votre est superbe.
+
+745
+00:43:11,602 --> 00:43:14,867
+Montrez donc au monsieur
+votre saucisse et purée, Daphné.
+
+746
+00:43:14,939 --> 00:43:18,602
+- J'aime assez le dernier.
+- Attendez d'entendre celui-ci.
+
+747
+00:43:19,110 --> 00:43:21,874
+Chaque mot commençant
+par un ''S'' ou un ''P'',
+
+748
+00:43:21,946 --> 00:43:25,211
+elle le remplace par
+''saucisse'' ou ''purée.''
+
+749
+00:43:25,283 --> 00:43:26,716
+Vas-y, Daphné,
+montre-lui !
+
+750
+00:43:26,784 --> 00:43:28,547
+''Cher Holmes, saucisse.
+
+751
+00:43:28,619 --> 00:43:31,213
+Saucissonné
+enquête, saucisse.
+
+752
+00:43:31,289 --> 00:43:33,883
+- Saucissonné enquête...''
+- Oh, un instant !
+
+753
+00:43:33,958 --> 00:43:35,789
+Je dois ajouter
+quelque chose à la fin.
+
+754
+00:43:36,627 --> 00:43:37,787
+Comment diriez-vous...
+
+755
+00:43:39,297 --> 00:43:44,064
+''Barrymore a une sœur
+très étrange.''
+
+756
+00:43:44,135 --> 00:43:48,231
+''Barrymore aifune soifeur
+trifès étifrange.''
+
+757
+00:43:48,306 --> 00:43:51,241
+''Barrymore a un frère
+très normal.''
+
+758
+00:43:51,309 --> 00:43:55,302
+''Barrymore à une saucisse
+très étrange.''
+
+759
+00:43:56,147 --> 00:43:59,241
+- Je suis un peu confus, là.
+- Ne vous inquiétez pas.
+
+760
+00:43:59,317 --> 00:44:02,775
+Je vais associer les trois codes
+et envoyer le tout en latin.
+
+761
+00:44:21,939 --> 00:44:23,600
+Bonjour, Dr Watson.
+
+762
+00:44:26,110 --> 00:44:27,771
+Dr Mortimer ?
+
+763
+00:44:28,446 --> 00:44:30,380
+Comment va l'enquête ?
+
+764
+00:44:30,448 --> 00:44:32,245
+Oh, euh...
+
+765
+00:44:32,316 --> 00:44:37,276
+Lentement...
+Mais sûrement, merci.
+
+766
+00:44:38,456 --> 00:44:41,391
+Au fait, pourriez-vous
+me renseigner ?
+
+767
+00:44:41,459 --> 00:44:43,051
+Mais certainement.
+
+768
+00:44:43,127 --> 00:44:47,063
+Je suppose que cela ne veut
+rien dire, mais sur la lande,
+
+769
+00:44:47,131 --> 00:44:50,692
+un type s'est mis à me lancer
+tout un quartier de bœuf.
+
+770
+00:44:50,768 --> 00:44:52,395
+C'est une coutume locale ?
+
+771
+00:44:52,470 --> 00:44:54,062
+Oh, non, non.
+C'était Frankland.
+
+772
+00:44:54,138 --> 00:44:57,904
+Chaque jour, il va sur la lande
+déposer de la viande pour le chien.
+
+773
+00:44:57,975 --> 00:44:59,738
+C'est devenu son obsession.
+
+774
+00:44:59,810 --> 00:45:02,335
+Pensez-vous
+que je devrais aller lui parler ?
+
+775
+00:45:02,413 --> 00:45:03,846
+Oui, certainement.
+
+776
+00:45:03,914 --> 00:45:05,848
+ll a ouvertement déclaré
+
+777
+00:45:05,916 --> 00:45:08,009
+son antipathie
+envers Sir Charles.
+
+778
+00:45:08,085 --> 00:45:09,848
+Oh, vraiment ?
+
+779
+00:45:09,920 --> 00:45:11,353
+À propos de quoi ?
+
+780
+00:45:11,422 --> 00:45:14,858
+Je ne l'ai jamais découvert.
+Mais vous peut-être, non ?
+
+781
+00:45:14,925 --> 00:45:17,951
+- Oui.
+- ll habite à Marécage Poisseux.
+
+782
+00:45:18,662 --> 00:45:20,653
+Oh, ça commence à pourrir.
+
+783
+00:45:22,600 --> 00:45:26,536
+Quel magnifique faux filet,
+quelle belle tranche.
+
+784
+00:45:26,604 --> 00:45:29,198
+Je n'ai mangé qu'un sandwich
+au fromage depuis mon arrivée.
+
+785
+00:45:29,273 --> 00:45:31,707
+Entrecôte, fabuleux.
+
+786
+00:45:32,610 --> 00:45:34,805
+Oh, et quel rumsteck.
+
+787
+00:45:34,879 --> 00:45:37,370
+Cette vache devait avoir
+la taille d'un dinosaure.
+
+788
+00:45:37,448 --> 00:45:39,882
+Sir Henry et moi
+allons nous régaler.
+
+789
+00:45:39,950 --> 00:45:42,885
+Oh, un gigot d'agneau,
+par ici mon joli.
+
+790
+00:45:42,953 --> 00:45:44,614
+Quelle veine
+d'avoir trouvé tout ceci.
+
+791
+00:45:44,688 --> 00:45:45,814
+Je te tiens !
+
+792
+00:45:56,801 --> 00:45:59,634
+Qui diable êtes-vous ?
+Sale voleur de viande !
+
+793
+00:45:59,703 --> 00:46:03,332
+Vous êtes M. Frankland,
+l'expert en Chien des Baskerville ?
+
+794
+00:46:03,407 --> 00:46:05,500
+P'tête ben que oui,
+p'tête ben que non.
+
+795
+00:46:05,576 --> 00:46:08,670
+C'est vous le pseudo détective
+débarqué de Londres ?
+
+796
+00:46:08,746 --> 00:46:10,236
+Oui, en personne.
+
+797
+00:46:12,917 --> 00:46:15,147
+Eh bien, rentrez donc.
+
+798
+00:46:28,766 --> 00:46:31,758
+Vous avez beaucoup
+de trophées, M. Frankland.
+
+799
+00:46:34,271 --> 00:46:37,434
+J'aime l'excitation
+de la chasse.
+
+800
+00:46:38,275 --> 00:46:42,211
+Avez-vous déjà tué
+un éléphant ?
+
+801
+00:46:42,780 --> 00:46:45,442
+J'ai oublié.
+
+802
+00:46:46,450 --> 00:46:50,887
+Rien ne vaut l'exaltation
+d'une mise à mort !
+
+803
+00:46:50,955 --> 00:46:53,890
+Je sais que vous
+savez tout du chien.
+
+804
+00:46:53,958 --> 00:46:55,118
+Oui !
+
+805
+00:46:56,127 --> 00:46:57,890
+Je le traque
+depuis des années.
+
+806
+00:46:57,962 --> 00:47:01,659
+Je vis dans ces marais
+brumeux et nauséabonds
+
+807
+00:47:01,732 --> 00:47:03,063
+tel un animal !
+
+808
+00:47:03,134 --> 00:47:05,329
+- Mais je l'aurai un jour.
+- Oh, ouais.
+
+809
+00:47:05,402 --> 00:47:08,303
+Vous comprenez,
+il faut être un animal...
+
+810
+00:47:08,372 --> 00:47:11,307
+- ...pour capturer un animal, non ?
+- Oh, oui, certainement.
+
+811
+00:47:11,375 --> 00:47:13,741
+- Vous l'avez déjà vu ?
+- Non !
+
+812
+00:47:15,913 --> 00:47:18,404
+Mais des amis à moi, oui.
+
+813
+00:47:23,587 --> 00:47:26,852
+Je peux entendre leurs
+hurlements dans mes oreilles.
+
+814
+00:47:26,924 --> 00:47:28,255
+Que s'est-il passé ?
+
+815
+00:47:29,593 --> 00:47:33,359
+Soixante dix-huit
+de mes amis proches,
+
+816
+00:47:33,430 --> 00:47:35,523
+tous dévorés en une nuit.
+
+817
+00:47:35,599 --> 00:47:37,590
+Et c'était le chien ?
+
+818
+00:47:39,436 --> 00:47:42,200
+Quel autre monstre
+déchiquetterait ses victimes
+
+819
+00:47:42,273 --> 00:47:44,764
+en faisant ''ouaf ouaf'' ?
+
+820
+00:47:46,410 --> 00:47:48,776
+Ah, oui, bien sûr, oui.
+
+821
+00:47:49,947 --> 00:47:51,539
+Et, est-ce que...
+
+822
+00:47:51,615 --> 00:47:54,607
+Est-ce que vous connaissiez
+feu Sir Charles ?
+
+823
+00:47:56,287 --> 00:47:59,450
+Ce salopard sans tripes !
+
+824
+00:48:05,229 --> 00:48:08,494
+Alors,
+vous ne l'aimiez pas ?
+
+825
+00:48:08,566 --> 00:48:11,501
+L'aimer ?
+Je le haïssais.
+
+826
+00:48:11,569 --> 00:48:14,333
+ll avait tenté de séduire
+ma petite Mary.
+
+827
+00:48:14,405 --> 00:48:17,238
+Ma pauvre, frêle,
+petite Mary.
+
+828
+00:48:19,243 --> 00:48:21,575
+J'en ai eu
+un autre, chéri.
+
+829
+00:48:22,079 --> 00:48:24,570
+Mets-le là bas.
+
+830
+00:48:25,749 --> 00:48:29,082
+Mary,
+voici le Dr Watson.
+
+831
+00:48:29,920 --> 00:48:31,410
+Enchantée.
+
+832
+00:48:34,225 --> 00:48:36,716
+Enchanté.
+Votre mari me disait que...
+
+833
+00:48:37,728 --> 00:48:38,820
+Quoi, quoi, quoi ?!
+
+834
+00:48:39,496 --> 00:48:40,622
+Amoureux.
+
+835
+00:48:41,565 --> 00:48:43,658
+Oh ! Bonté Divine.
+
+836
+00:48:44,401 --> 00:48:46,494
+Votre amoureux
+me racontait comment...
+
+837
+00:48:46,570 --> 00:48:49,334
+ses amis furent
+massacrés par le chien.
+
+838
+00:48:49,406 --> 00:48:50,896
+C'est la vérité, hein ?
+
+839
+00:48:51,408 --> 00:48:53,672
+Je pensais avoir rêvé
+
+840
+00:48:53,744 --> 00:48:56,838
+ou être devenu fou ou ivre.
+
+841
+00:48:56,914 --> 00:48:58,506
+Mais moi, ivre ?!
+
+842
+00:48:58,582 --> 00:49:00,516
+Vous semblez être
+un homme très rationnel.
+
+843
+00:49:00,584 --> 00:49:03,644
+Oui, je suis rationnel !
+
+844
+00:49:03,721 --> 00:49:05,655
+Je le pisterai
+en reniflant la terre
+
+845
+00:49:05,723 --> 00:49:08,419
+et je le trouverai...
+Et quand il sera face à moi,
+
+846
+00:49:08,492 --> 00:49:10,892
+je l'étranglerai, comme ça !
+
+847
+00:49:13,497 --> 00:49:15,158
+Juste comme ça !
+
+848
+00:49:16,200 --> 00:49:19,863
+Bon, je vais y aller.
+Je dois me sauver maintenant.
+
+849
+00:49:19,937 --> 00:49:22,098
+Et j'espère
+que vous l'aurez !
+
+850
+00:49:27,478 --> 00:49:28,445
+CHAPlTRE Vlll
+
+851
+00:49:28,512 --> 00:49:30,503
+<i>Le spectaculaire télégramme
+de Watson</i>
+
+852
+00:49:30,581 --> 00:49:33,641
+<i>oblige Holmes
+à engager un expert.</i>
+
+853
+00:49:34,585 --> 00:49:35,745
+Entrez !
+
+854
+00:49:42,926 --> 00:49:44,518
+- Bonjour.
+- Bonjour.
+
+855
+00:49:44,595 --> 00:49:47,029
+- Merci d'être venu.
+- De rien.
+
+856
+00:49:47,097 --> 00:49:49,930
+- Vous avez vu l'annonce ?
+- Oui, absolument.
+
+857
+00:49:54,271 --> 00:49:58,537
+- M. Spiggott, c'est cela ?
+- Oui, Spiggott c'est mon nom.
+
+858
+00:49:58,609 --> 00:50:00,543
+Trouver c'est mon métier.
+
+859
+00:50:00,611 --> 00:50:01,873
+Je vois.
+
+860
+00:50:01,945 --> 00:50:06,780
+Spiggott c'est votre nom.
+Trouver c'est votre métier.
+
+861
+00:50:08,952 --> 00:50:10,283
+Tu y es !
+
+862
+00:50:11,288 --> 00:50:13,950
+Nous ne sommes pas ici
+pour jouer à chat perché.
+
+863
+00:50:14,024 --> 00:50:15,889
+Je ne voulais pas jouer.
+
+864
+00:50:15,959 --> 00:50:19,053
+Pas le moins du monde.
+Asseyez-vous, je vous prie.
+
+865
+00:50:19,129 --> 00:50:22,621
+Bon, ça va.
+Pas la peine de le prendre ainsi.
+
+866
+00:50:24,468 --> 00:50:26,060
+M. Spiggott,
+
+867
+00:50:26,136 --> 00:50:30,072
+vous postulez pour
+le travail sur la lande...
+
+868
+00:50:30,140 --> 00:50:32,631
+- ...en tant que coureur ?
+- C'est ça.
+
+869
+00:50:36,313 --> 00:50:38,247
+M. Spiggott, je...
+
+870
+00:50:39,216 --> 00:50:43,585
+Je n'ai pu m'empêcher
+de remarquer...
+
+871
+00:50:43,654 --> 00:50:47,647
+- Quoi ?
+- Que vous êtes unijambiste.
+
+872
+00:50:48,158 --> 00:50:50,422
+Oh, vous avez remarqué ?
+
+873
+00:50:50,494 --> 00:50:53,588
+Quand on fait ce métier
+depuis aussi longtemps que moi,
+
+874
+00:50:53,664 --> 00:50:56,929
+on fini par détecter
+ces choses
+
+875
+00:50:57,000 --> 00:50:59,434
+quasi instinctivement.
+
+876
+00:50:59,503 --> 00:51:01,869
+Ben, ouais, c'est forcé,
+pas vrai, hein ?
+
+877
+00:51:01,939 --> 00:51:05,204
+M. Spiggott, vous n'avez
+qu'une jambe,
+
+878
+00:51:05,275 --> 00:51:07,368
+et postulez pour ce travail...
+
+879
+00:51:07,444 --> 00:51:09,878
+- ...de coureur.
+- C'est ça, oui.
+
+880
+00:51:09,947 --> 00:51:13,747
+Un travail généralement associé
+
+881
+00:51:13,817 --> 00:51:15,876
+à des personnes
+ayant deux jambes.
+
+882
+00:51:15,953 --> 00:51:17,545
+C'est ça, oui.
+
+883
+00:51:17,621 --> 00:51:21,057
+Et donc vous,
+un unijambiste,
+
+884
+00:51:21,125 --> 00:51:24,390
+- ...postulez pour ce travail.
+- C'est toujours ça, oui.
+
+885
+00:51:24,461 --> 00:51:28,659
+Un travail pour lequel
+deux jambes sembleraient être
+
+886
+00:51:28,732 --> 00:51:31,462
+le minimum requis.
+
+887
+00:51:33,137 --> 00:51:35,731
+Donc, M. Spiggott,
+suis-je vraiment obligé
+
+888
+00:51:35,806 --> 00:51:38,240
+de souligner avec emphase
+
+889
+00:51:38,308 --> 00:51:41,141
+où réside votre point faible
+
+890
+00:51:41,211 --> 00:51:44,339
+en ce qui concerne
+l'obtention de ce travail ?
+
+891
+00:51:44,848 --> 00:51:48,079
+- Ben, oui, je crois que oui.
+- Oui, sans doute.
+
+892
+00:51:48,152 --> 00:51:50,916
+Dois-je vraiment
+insister sur le fait
+
+893
+00:51:50,988 --> 00:51:53,923
+que c'est
+dans la partie jambe
+
+894
+00:51:53,991 --> 00:51:56,482
+que siège votre insuffisance ?
+
+895
+00:51:57,161 --> 00:52:00,756
+- La partie jambe ?
+- La partie jambe, M. Spiggott.
+
+896
+00:52:00,831 --> 00:52:03,698
+Vous êtes insuffisant
+dans la partie jambe,
+
+897
+00:52:03,767 --> 00:52:05,632
+d'une unité.
+
+898
+00:52:07,271 --> 00:52:10,035
+J'aime votre jambe droite.
+
+899
+00:52:11,041 --> 00:52:13,635
+C'est une jambe idéale
+pour ce travail.
+
+900
+00:52:13,710 --> 00:52:16,440
+Quand vous êtes entré,
+j'ai pensé, ''Ça alors !''
+
+901
+00:52:17,181 --> 00:52:20,207
+''Quelle jambe parfaite
+pour ce travail !''
+
+902
+00:52:20,284 --> 00:52:22,878
+Je n'ai rien contre
+votre jambe droite.
+
+903
+00:52:24,321 --> 00:52:25,879
+Le problème est que,
+
+904
+00:52:26,623 --> 00:52:28,284
+vous non plus.
+
+905
+00:52:29,460 --> 00:52:32,452
+Votre jambe gauche
+vous a perdu.
+
+906
+00:52:35,132 --> 00:52:38,533
+- Elle n'est pas adéquate ?
+- Elle n'est pas adéquate.
+
+907
+00:52:38,602 --> 00:52:40,866
+- Flûte alors.
+- Et d'après moi,
+
+908
+00:52:40,938 --> 00:52:43,702
+la vue d'un coureur unijambiste
+
+909
+00:52:43,774 --> 00:52:46,208
+sautillant sur la lande
+
+910
+00:52:46,276 --> 00:52:49,302
+risque d'attirer
+trop d'attention.
+
+911
+00:52:50,981 --> 00:52:53,916
+Mais, ne perdez pas espoir,
+M. Spiggott. Après tout,
+
+912
+00:52:53,984 --> 00:52:57,750
+vous avez un gros avantage
+sur un homme sans jambes,
+
+913
+00:52:57,821 --> 00:52:59,584
+un avantage de 100% !
+
+914
+00:52:59,656 --> 00:53:02,352
+Ah ouais, c'est vrai ça.
+J'en ai deux fois plus, hein ?
+
+915
+00:53:02,426 --> 00:53:04,018
+- Exactement !
+- Cool.
+
+916
+00:53:04,094 --> 00:53:05,527
+Alors, il y a de l'espoir ?
+
+917
+00:53:05,596 --> 00:53:07,723
+Mais bien évidemment !
+
+918
+00:53:07,798 --> 00:53:11,859
+Si je ne trouvais aucun
+coureur à deux jambes
+
+919
+00:53:11,935 --> 00:53:15,530
+d'ici, disons,
+les 18 prochains mois,
+
+920
+00:53:15,606 --> 00:53:19,872
+il y a de fortes chances
+que vous, un unijambiste,
+
+921
+00:53:19,943 --> 00:53:22,707
+serez exactement
+la personne
+
+922
+00:53:22,779 --> 00:53:25,213
+que je contacterais...
+
+923
+00:53:25,282 --> 00:53:28,615
+- ...pour ce travail.
+- Oh, formidable !
+
+924
+00:53:28,685 --> 00:53:31,677
+Je regrette de ne pouvoir être
+plus précis à ce stade.
+
+925
+00:53:31,755 --> 00:53:34,349
+Mais vous devez comprendre
+que le monde de la détection
+
+926
+00:53:34,424 --> 00:53:35,857
+est un univers très pointilleux,
+
+927
+00:53:35,926 --> 00:53:38,895
+et je ne puis me permettre
+de prendre le moindre risque.
+
+928
+00:53:38,962 --> 00:53:40,395
+Merci, au revoir !
+
+929
+00:53:40,464 --> 00:53:42,295
+Merci, M. Spiggott.
+
+930
+00:53:43,467 --> 00:53:45,958
+Oh, encore une chose,
+M. Spiggott !
+
+931
+00:53:48,639 --> 00:53:49,697
+Oui ?
+
+932
+00:53:49,773 --> 00:53:51,104
+Bonne chance.
+
+933
+00:53:52,643 --> 00:53:54,304
+Au revoir.
+
+934
+00:53:57,606 --> 00:53:59,631
+CHAPlTRE lX
+
+935
+00:53:59,708 --> 00:54:05,476
+<i>Watson face à son
+premier obstacle.</i>
+
+936
+00:54:30,639 --> 00:54:34,541
+Oh, quelle peur !
+J'ai cru que tu étais le chien !
+
+937
+00:54:35,443 --> 00:54:36,432
+La ferme !
+
+938
+00:54:36,945 --> 00:54:39,971
+La ferme ! Silence !
+À la niche...
+
+939
+00:54:40,048 --> 00:54:42,414
+Mais que diable faites-vous
+à mon petit chien ?!
+
+940
+00:54:42,484 --> 00:54:44,076
+Vous paierez pour ceci !
+
+941
+00:54:44,152 --> 00:54:47,485
+Je ne faisais que traverser
+pour rentrer à Baskerville Hall, et...
+
+942
+00:54:47,556 --> 00:54:49,148
+Baskerville Hall ?
+
+943
+00:54:49,224 --> 00:54:51,658
+Oh, vous devez être
+Sir Henry.
+
+944
+00:54:51,726 --> 00:54:53,318
+Nous avions tous hâte
+de faire votre connaissance.
+
+945
+00:54:53,395 --> 00:54:55,829
+Nous sommes
+vraiment ravis
+
+946
+00:54:55,897 --> 00:54:57,990
+que vous soyez
+enfin arrivé.
+
+947
+00:55:01,503 --> 00:55:04,370
+- Et vous êtes, votre nom...?
+- Oui, oui.
+
+948
+00:55:04,439 --> 00:55:05,599
+- Pardon ?
+- Votre nom ?
+
+949
+00:55:05,674 --> 00:55:08,040
+- Stapleton.
+- Oh, M. Stapleton,
+
+950
+00:55:08,109 --> 00:55:09,940
+j'allais justement vous voir
+
+951
+00:55:10,011 --> 00:55:13,276
+au sujet de ce mystérieux
+chien censé avoir causé...
+
+952
+00:55:13,348 --> 00:55:15,680
+- ...la mort de Sir Charles.
+- Censé avoir ?
+
+953
+00:55:16,184 --> 00:55:18,812
+Nous savons tous que
+cela ne peut être que ce chien
+
+954
+00:55:18,887 --> 00:55:21,515
+cherchant à se venger
+de ces maudits de Baskerville.
+
+955
+00:55:22,457 --> 00:55:24,049
+Vous ne devriez pas être ici,
+c'est trop dangereux !
+
+956
+00:55:24,125 --> 00:55:25,717
+Le chien est après vous.
+
+957
+00:55:25,794 --> 00:55:29,958
+Jusqu'ici, seul votre chien
+m'a semblé dangereux.
+
+958
+00:55:30,031 --> 00:55:32,261
+Mes toutous ne feraient
+pas de mal à une mouche.
+
+959
+00:55:32,334 --> 00:55:34,894
+- Vous êtes comme votre oncle.
+- Comment ça ?
+
+960
+00:55:34,970 --> 00:55:39,430
+Vous savez certainement
+qu'il détestait mes Chihuahuas.
+
+961
+00:55:39,507 --> 00:55:40,940
+ll les accusait
+de salir la lande,
+
+962
+00:55:41,009 --> 00:55:43,842
+il a érigé des clôtures
+pour m'empêcher de circuler.
+
+963
+00:55:44,512 --> 00:55:47,174
+Mes petits amours, mes anges.
+
+964
+00:55:47,682 --> 00:55:49,946
+lls ont le droit d'être ici,
+comme les Baskerville !
+
+965
+00:55:50,018 --> 00:55:52,612
+- Mais absolument.
+- Vous ne nous arrêterez pas !
+
+966
+00:55:52,687 --> 00:55:54,848
+Non, non,
+bien sûr que non.
+
+967
+00:55:55,357 --> 00:55:57,552
+Avez-vous vu comme
+mon bébé est adorable ?
+
+968
+00:55:57,626 --> 00:55:59,059
+Regardez-le.
+
+969
+00:55:59,127 --> 00:56:01,891
+ll veut juste
+faire ami ami.
+
+970
+00:56:01,963 --> 00:56:05,228
+ll veut juste s'asseoir dans
+votre poche et être votre ami.
+
+971
+00:56:05,300 --> 00:56:09,464
+- Non, pas dans ma poche.
+- Regardez comme c'est chou !
+
+972
+00:56:14,209 --> 00:56:16,370
+- Voyez comme il vous aime.
+- Euh, ouais.
+
+973
+00:56:17,412 --> 00:56:20,347
+Mon petit chou.
+Vous l'avez excité, sale monstre !
+
+974
+00:56:20,415 --> 00:56:22,349
+Désolé,
+je ne voulais pas le contrarier !
+
+975
+00:56:22,417 --> 00:56:24,146
+- Donnez-moi mon bébé !
+- Tenez.
+
+976
+00:56:25,153 --> 00:56:28,088
+Vous ne comprenez pas,
+il veut juste être votre ami.
+
+977
+00:56:28,156 --> 00:56:29,748
+Ouais, ben,
+merci beaucoup.
+
+978
+00:56:29,824 --> 00:56:30,813
+Regardez...
+
+979
+00:56:31,660 --> 00:56:32,922
+Non, sans façon.
+
+980
+00:56:32,994 --> 00:56:35,554
+Je dois vous
+présenter ma sœur.
+
+981
+00:56:35,630 --> 00:56:39,430
+Oui, certainement,
+je serais ravi de la connaître.
+
+982
+00:56:39,501 --> 00:56:42,095
+Elle a hâte de vous rencontrer.
+Nous habitons juste là.
+
+983
+00:56:43,471 --> 00:56:44,460
+Vous pourriez...
+
+984
+00:56:44,539 --> 00:56:46,837
+Vous pourriez
+poser votre chien ?
+
+985
+00:56:46,908 --> 00:56:49,672
+Seigneur ! Pour qu'il tombe
+dans un marécage ?
+
+986
+00:56:49,744 --> 00:56:51,974
+ll ne lui faudrait
+qu'un instant pour disparaître.
+
+987
+00:56:52,047 --> 00:56:55,346
+- Oh, oui, excusez-moi.
+- Ne vous excusez pas, c'est faible !
+
+988
+00:56:55,417 --> 00:56:58,409
+Désolé! Oh, désolé,
+je ne voulais pas dire ''désolé.''
+
+989
+00:56:58,486 --> 00:56:59,817
+Bon sang...
+
+990
+00:57:04,492 --> 00:57:06,824
+Je ne veux pas m'imposer,
+mais je dois dire
+
+991
+00:57:06,895 --> 00:57:09,955
+qu'une bonne tasse de thé
+me ferait le plus grand bien.
+
+992
+00:57:10,031 --> 00:57:12,431
+Bienvenue à Merripit Hall,
+Sir Henry.
+
+993
+00:57:13,935 --> 00:57:16,096
+C'est ma sœur.
+Elle n'est pas dans son assiette.
+
+994
+00:57:16,171 --> 00:57:18,264
+Rien de grave,
+j'espère ?
+
+995
+00:57:18,340 --> 00:57:20,433
+Elle a dû attraper ça
+sur la lande.
+
+996
+00:57:20,508 --> 00:57:22,271
+J'espère qu'elle se rétablira vite.
+
+997
+00:57:22,344 --> 00:57:24,107
+Les femmes en font
+toujours beaucoup.
+
+998
+00:57:24,179 --> 00:57:25,612
+- Certes.
+- Beryl, pauvre petite,
+
+999
+00:57:25,680 --> 00:57:27,944
+affirme que la nuit
+du décès de Sir Charles
+
+1000
+00:57:28,016 --> 00:57:31,679
+elle a rencontré
+le chien des Baskerville...
+
+1001
+00:57:32,854 --> 00:57:35,186
+et depuis,
+elle ne quitte plus sa chambre.
+
+1002
+00:57:36,024 --> 00:57:39,187
+Est-ce que mon petit
+choupinou veut boire ?
+
+1003
+00:57:41,629 --> 00:57:42,960
+Entrez donc.
+
+1004
+00:57:45,633 --> 00:57:48,966
+Pardonnez mon indiscrétion,
+Mlle Stapleton, mais...
+
+1005
+00:57:49,804 --> 00:57:53,240
+- ...pourquoi restez-vous alitée ?
+- Ordre du médecin.
+
+1006
+00:57:53,308 --> 00:57:56,402
+Je me sens un peu faible
+ces derniers temps.
+
+1007
+00:57:56,478 --> 00:57:57,911
+Voilà.
+
+1008
+00:57:58,580 --> 00:58:00,172
+J'espère qu'il n'est pas
+trop fort.
+
+1009
+00:58:00,248 --> 00:58:02,910
+Non, pas du tout,
+il est parfait.
+
+1010
+00:58:04,085 --> 00:58:07,350
+Votre frère m'a dit
+que vous aviez vu
+
+1011
+00:58:07,422 --> 00:58:09,253
+le légendaire chien.
+
+1012
+00:58:09,758 --> 00:58:11,521
+- Est-ce vrai ?
+- Vrai?
+
+1013
+00:58:11,593 --> 00:58:15,586
+Vous doutez de moi ?
+Je ne suis pas folle.
+
+1014
+00:58:16,431 --> 00:58:19,025
+Oui, j'ai vu ce chien
+
+1015
+00:58:19,100 --> 00:58:21,762
+aussi clairement
+que je vous vois.
+
+1016
+00:58:22,937 --> 00:58:24,700
+Je suis par ici,
+Mlle Stapleton.
+
+1017
+00:58:24,773 --> 00:58:25,865
+Encore un peu de thé ?
+
+1018
+00:58:25,940 --> 00:58:27,771
+J'en ai encore plein...
+
+1019
+00:58:28,943 --> 00:58:31,639
+Non, stop, non ! Merci,
+Mlle Stapleton, merci !
+
+1020
+00:58:31,713 --> 00:58:33,476
+Merci, ça ira comme ça.
+
+1021
+00:58:33,548 --> 00:58:37,279
+J'étais sur la lande la nuit
+où votre oncle est mort.
+
+1022
+00:58:37,352 --> 00:58:40,617
+J'avais ce besoin irrésistible
+
+1023
+00:58:41,289 --> 00:58:45,225
+de sortir et de me rendre
+à Baskerville Hall,
+
+1024
+00:58:45,293 --> 00:58:48,729
+pour réfléchir
+au sens de ma vie,
+
+1025
+00:58:48,797 --> 00:58:51,231
+ce qu'elle est,
+
+1026
+00:58:51,299 --> 00:58:53,062
+ce qu'elle pourrait être.
+
+1027
+00:58:53,134 --> 00:58:55,728
+Oui, je connais
+ce besoin, oui.
+
+1028
+00:58:55,804 --> 00:58:59,331
+Oh, la nuit était
+d'une telle beauté.
+
+1029
+00:58:59,407 --> 00:59:03,070
+La lune était pleine,
+la brise caressante.
+
+1030
+00:59:03,578 --> 00:59:05,170
+Et soudain,
+
+1031
+00:59:05,246 --> 00:59:09,080
+le calme fut transpercé
+par un hurlement inhumain !
+
+1032
+00:59:09,751 --> 00:59:12,015
+- Un hurlement sur la lande ?
+- Oui.
+
+1033
+00:59:12,087 --> 00:59:15,318
+Un cri si terrifiant
+que je crus
+
+1034
+00:59:15,390 --> 00:59:17,858
+que le Diable lui-même était là,
+
+1035
+00:59:17,926 --> 00:59:22,363
+car du brouillard surgit soudain
+un monstre gigantesque,
+
+1036
+00:59:22,430 --> 00:59:26,890
+un chien avec des crocs
+ruisselants de sang,
+
+1037
+00:59:26,968 --> 00:59:30,563
+avec un œil rouge
+et l'autre vert,
+
+1038
+00:59:30,638 --> 00:59:33,903
+et des flammes sortant
+de ses narines !
+
+1039
+00:59:33,975 --> 00:59:36,409
+Et avez-vous remarqué
+quelque chose d'inhabituel ?
+
+1040
+00:59:36,478 --> 00:59:38,241
+Non, il fut sur moi
+en un rien.
+
+1041
+00:59:38,313 --> 00:59:40,713
+Et je m'évanouis
+
+1042
+00:59:40,782 --> 00:59:43,376
+tandis qu'il me faisait
+des choses,
+
+1043
+00:59:43,451 --> 00:59:46,386
+encore et encore,
+pendant toute la nuit,
+
+1044
+00:59:46,454 --> 00:59:48,217
+jamais rassasié.
+
+1045
+00:59:48,289 --> 00:59:50,382
+J'ai cru que cela
+ne finirait jamais.
+
+1046
+00:59:50,458 --> 00:59:54,121
+- ll était insatiable.
+- Quelle horreur !
+
+1047
+00:59:56,297 --> 00:59:59,994
+Epargnez-vous d'autres
+souvenirs difficiles, Mlle Stapleton.
+
+1048
+01:00:00,068 --> 01:00:03,834
+- Je comprends parfaitement.
+- Oh, je le savais.
+
+1049
+01:00:03,905 --> 01:00:06,999
+Dès que je vous ai vu,
+j'ai su.
+
+1050
+01:00:07,075 --> 01:00:09,339
+Je peux vous faire confiance,
+
+1051
+01:00:09,410 --> 01:00:11,708
+je sais que vous
+me protégerez !
+
+1052
+01:00:11,779 --> 01:00:14,373
+Vous devez rester près de moi
+et me protéger à jamais !
+
+1053
+01:00:14,449 --> 01:00:17,043
+Ce serait avec plaisir,
+mais je dois y aller.
+
+1054
+01:00:17,118 --> 01:00:19,552
+- J'ai besoin de vous !
+- Tout doux, reculez,
+
+1055
+01:00:19,621 --> 01:00:21,612
+Mlle Stapleton,
+contrôlez-vous !
+
+1056
+01:00:34,102 --> 01:00:35,262
+Je ne veux pas voir ça !
+
+1057
+01:00:35,336 --> 01:00:36,462
+AlME-MOl
+
+1058
+01:00:36,538 --> 01:00:37,732
+<i>Aime-moi.</i>
+
+1059
+01:00:37,805 --> 01:00:39,739
+<i>Aime-moi !</i>
+
+1060
+01:00:39,807 --> 01:00:42,207
+<i>Aime-moi !</i>
+
+1061
+01:00:45,113 --> 01:00:46,341
+Oh, Bonté Divine !
+
+1062
+01:00:49,951 --> 01:00:51,213
+Oh, non !
+
+1063
+01:01:01,062 --> 01:01:02,723
+Tu ne veux que ça !
+
+1064
+01:01:13,575 --> 01:01:17,011
+Dr Watson ! Mais que faites-vous
+avec ma patiente ?!
+
+1065
+01:01:17,078 --> 01:01:20,013
+- Vous n'êtes pas Sir Henry ?
+- En fait, non.
+
+1066
+01:01:20,081 --> 01:01:22,515
+Comment osez-vous
+profiter de moi ainsi ?
+
+1067
+01:01:22,584 --> 01:01:24,848
+Dr Watson, je pense que vous
+feriez bien de partir.
+
+1068
+01:01:24,919 --> 01:01:28,082
+- Je trouverai la sortie.
+- Permettez.
+
+1069
+01:01:40,602 --> 01:01:44,197
+Jamais je ne frappe
+à la mauvaise porte
+
+1070
+01:01:44,272 --> 01:01:47,708
+quand je rentre
+tard la nuit.
+
+1071
+01:01:47,775 --> 01:01:51,040
+Mon numéro est le 23,
+ça ne ma cause aucun effroi.
+
+1072
+01:01:51,112 --> 01:01:54,377
+Je connais très bien
+la maison où je vis.
+
+1073
+01:01:54,449 --> 01:01:55,507
+Je...
+
+1074
+01:01:55,583 --> 01:01:57,050
+Coucou, Watty.
+
+1075
+01:01:57,118 --> 01:02:00,315
+Ciel, vous avez l'air exténué.
+
+1076
+01:02:00,388 --> 01:02:03,789
+- Votre journée a dû être bonne.
+- Oui, parfaite, merci !
+
+1077
+01:02:05,727 --> 01:02:06,989
+Et la vôtre ?
+
+1078
+01:02:07,061 --> 01:02:09,996
+J'ai fait comme vous m'aviez dit.
+Je n'ai pas bougé d'un pouce.
+
+1079
+01:02:10,064 --> 01:02:12,828
+- Sage comme une image.
+- C'est bien.
+
+1080
+01:02:12,900 --> 01:02:14,663
+On n'est jamais
+trop prudent.
+
+1081
+01:02:14,736 --> 01:02:18,866
+Barrymore m'a dit que sa femme
+nous avait apporté à manger.
+
+1082
+01:02:18,940 --> 01:02:22,740
+Elle n'a monté
+qu'un peu d'agneau froid.
+
+1083
+01:02:22,810 --> 01:02:24,607
+Merveilleux, où est-il ?
+
+1084
+01:02:24,679 --> 01:02:26,374
+- Où est l'agneau ?
+- Dans le coin.
+
+1085
+01:02:27,415 --> 01:02:29,576
+Bonté Divine !
+
+1086
+01:02:29,651 --> 01:02:31,642
+CHAPlTRE X
+
+1087
+01:02:31,719 --> 01:02:37,385
+<i>Watson appelle
+Sherlock Holmes à l'aide.</i>
+
+1088
+01:02:37,458 --> 01:02:39,085
+Bonjour, Dr Watson.
+
+1089
+01:02:39,160 --> 01:02:41,924
+Voulez-vous venir
+à notre vente aux enchères ?
+
+1090
+01:02:41,996 --> 01:02:43,088
+Quelle vente ?
+
+1091
+01:02:43,164 --> 01:02:45,928
+Celle des meubles et objets
+de Baskerville Hall,
+
+1092
+01:02:46,000 --> 01:02:48,264
+les anciens biens
+de Sir Charles.
+
+1093
+01:02:48,336 --> 01:02:50,429
+Comme c'est étrange !
+
+1094
+01:02:50,505 --> 01:02:52,439
+Le testament
+n'a même pas encore été lu.
+
+1095
+01:02:52,507 --> 01:02:54,031
+Bonté Divine !
+
+1096
+01:02:54,542 --> 01:02:57,978
+Je dois immédiatement informer
+Sherlock Holmes de ceci.
+
+1097
+01:02:58,880 --> 01:03:01,815
+N'y a-t-il pas de téléphone
+dans ce trou perdu ?
+
+1098
+01:03:01,883 --> 01:03:04,647
+Bien sûr que si,
+au bureau de poste.
+
+1099
+01:03:06,387 --> 01:03:08,753
+Holmes, c'est Watson.
+
+1100
+01:03:08,823 --> 01:03:12,418
+Ecoutez, c'est urgent, vous devez
+venir par le prochain train
+
+1101
+01:03:12,493 --> 01:03:14,324
+pour Baskerville, demain, midi.
+
+1102
+01:03:15,496 --> 01:03:16,827
+Vous serez déguisé ?
+
+1103
+01:03:18,066 --> 01:03:20,398
+Mais comment vous
+reconnaîtrai-je, alors ?
+
+1104
+01:03:21,169 --> 01:03:23,194
+Vous pourriez
+porter un œillet rose ?!
+
+1105
+01:03:25,840 --> 01:03:29,571
+Mesdames et messieurs,
+veuillez vous assembler.
+
+1106
+01:03:29,644 --> 01:03:31,839
+La vente aux enchères
+va commencer.
+
+1107
+01:03:40,755 --> 01:03:44,020
+Où étiez-vous passé ?
+Les Barrymore vendent tout.
+
+1108
+01:03:44,092 --> 01:03:47,027
+- Faites quelque chose !
+- Ne vous inquiétez pas, Sir Henry.
+
+1109
+01:03:47,095 --> 01:03:49,086
+Je vais m'en occuper.
+
+1110
+01:03:53,935 --> 01:03:56,699
+Dr Mortimer ?
+Dr Mortimer, s'il vous plaît.
+
+1111
+01:03:56,771 --> 01:03:58,102
+Ah, Dr Watson.
+
+1112
+01:03:59,107 --> 01:04:02,042
+- Heureux de vous revoir.
+- Oui, mais je suis perplexe.
+
+1113
+01:04:02,110 --> 01:04:04,044
+Enfin, qu'est-ce
+que tout ceci ?
+
+1114
+01:04:04,112 --> 01:04:06,706
+Le contenu de Baskerville Hall
+fait certainement partie
+
+1115
+01:04:06,781 --> 01:04:09,716
+de l'héritage de Sir Henry.
+
+1116
+01:04:09,784 --> 01:04:10,808
+J'ai bien peur que non.
+
+1117
+01:04:10,885 --> 01:04:14,116
+Sir Charles voulait léguer
+le contenu du hall au Barrymore
+
+1118
+01:04:14,188 --> 01:04:16,156
+en lieu et place
+du salaire qu'il leur devait.
+
+1119
+01:04:16,224 --> 01:04:17,851
+- Comme c'est étrange.
+- Oui.
+
+1120
+01:04:17,925 --> 01:04:20,018
+C'est pas juste !
+
+1121
+01:04:20,094 --> 01:04:23,530
+Seul un animal pourrait vivre
+dans une maison sans meubles.
+
+1122
+01:04:23,598 --> 01:04:26,328
+Enfin quoi, où vais-je
+m'asseoir et dormir ?
+
+1123
+01:04:26,401 --> 01:04:28,699
+Mais d'après Mme Barrymore
+vous avez un nid très douillet...
+
+1124
+01:04:28,770 --> 01:04:30,533
+- ...dans le grenier.
+- Oh, bien sûr !
+
+1125
+01:04:30,605 --> 01:04:33,699
+Un jour de plus dans cette fosse
+d'aisance et j'aurai une pneumonie.
+
+1126
+01:04:33,775 --> 01:04:36,300
+- Les souris ont les pieds palmés.
+- C'est vrai.
+
+1127
+01:04:42,316 --> 01:04:43,476
+Holà !
+
+1128
+01:04:44,652 --> 01:04:46,677
+Lequel est Sir Henry ?
+
+1129
+01:04:46,754 --> 01:04:49,518
+- Celui-là.
+- Lequel ?
+
+1130
+01:04:49,590 --> 01:04:51,683
+Le grand,
+celui qui a l'air idiot.
+
+1131
+01:04:51,759 --> 01:04:54,193
+C'est un étranger.
+Ce doit être lui.
+
+1132
+01:04:54,262 --> 01:04:56,196
+Où ça ?
+Je ne le vois pas.
+
+1133
+01:04:56,264 --> 01:04:59,324
+Oh, celui qui
+se cure le nez.
+
+1134
+01:04:59,867 --> 01:05:01,027
+Mais lequel ?
+
+1135
+01:05:01,836 --> 01:05:05,431
+Celui qui se cure le nez
+et s'essuie sur sa barbe.
+
+1136
+01:05:05,506 --> 01:05:09,909
+Ah, le grand.
+Ce doit être lui.
+
+1137
+01:05:09,977 --> 01:05:14,414
+Et maintenant,
+passons à la victime suivante.
+
+1138
+01:05:14,482 --> 01:05:17,007
+Feu Sir Lou,
+
+1139
+01:05:17,084 --> 01:05:20,918
+un portrait
+absolument magnifique.
+
+1140
+01:05:20,988 --> 01:05:25,550
+Grouillez-vous, Arthur,
+je veux aller boire mon thé.
+
+1141
+01:05:25,626 --> 01:05:28,720
+Qui va enchérir pour cette
+pièce de collection unique ?
+
+1142
+01:05:28,796 --> 01:05:31,230
+Seriez-vous une personne
+à qui je pourrais confier
+
+1143
+01:05:31,299 --> 01:05:35,065
+un secret concernant la sécurité
+de Sir Henry Baskerville ?
+
+1144
+01:05:35,136 --> 01:05:36,398
+Peut-être bien.
+
+1145
+01:05:36,471 --> 01:05:39,406
+Je savais que c'était vous.
+
+1146
+01:05:39,474 --> 01:05:41,567
+Je dois vous parler.
+
+1147
+01:05:41,642 --> 01:05:44,577
+Je sais des choses
+sur ce chien et votre famille.
+
+1148
+01:05:44,645 --> 01:05:48,672
+Vous ne pourrez échapper
+à la malédiction.
+
+1149
+01:05:48,749 --> 01:05:50,683
+Sauf si je puis
+vous voir ce soir.
+
+1150
+01:05:50,751 --> 01:05:52,514
+Madame,
+qui diable êtes-vous ?
+
+1151
+01:05:52,587 --> 01:05:55,351
+Beryl Stapleton.
+J'habite sur la lande.
+
+1152
+01:05:55,423 --> 01:05:57,391
+Je vous attendrai.
+
+1153
+01:05:57,458 --> 01:06:00,586
+Tenez-vous encore
+à ne pas surenchérir, Glynis ?
+
+1154
+01:06:00,661 --> 01:06:03,095
+Je ne donnerais pas neuf shillings
+pour cette monstruosité.
+
+1155
+01:06:03,598 --> 01:06:06,226
+Vendu pour neuf à Glynis.
+
+1156
+01:06:06,300 --> 01:06:09,064
+Ne pouvez-vous arrêter tout ceci
+et sauver mes pauvres biens ?
+
+1157
+01:06:09,136 --> 01:06:11,900
+Hélas, non, Sir Henry,
+à moins de trouver Holmes.
+
+1158
+01:06:11,973 --> 01:06:14,635
+Holmes est ici ?
+Je dois lui parler.
+
+1159
+01:06:15,142 --> 01:06:17,542
+ll est venu déguisé
+et personne ne doit le savoir.
+
+1160
+01:06:17,612 --> 01:06:20,604
+Où est-il, lequel est-ce ?
+Je dois savoir.
+
+1161
+01:06:21,282 --> 01:06:23,443
+Très bien, Sir Henry,
+je vais le trouver.
+
+1162
+01:06:25,620 --> 01:06:26,712
+Holmes !
+
+1163
+01:06:27,455 --> 01:06:28,888
+Holmes, où êtes-vous ?!
+
+1164
+01:06:28,956 --> 01:06:30,947
+Juste derrière vous, Watson.
+
+1165
+01:06:31,459 --> 01:06:33,222
+Bonté Divine, Holmes !
+
+1166
+01:06:33,294 --> 01:06:37,560
+Holmes, on m'a volé
+mon manteau préféré.
+
+1167
+01:06:37,632 --> 01:06:40,897
+D'abord votre botte, ensuite
+le manteau... Motif identique.
+
+1168
+01:06:40,968 --> 01:06:42,799
+Non, en coton uni.
+
+1169
+01:06:43,304 --> 01:06:46,933
+Dites-moi, pourquoi votre
+oncle voulait-il un portrait...
+
+1170
+01:06:47,008 --> 01:06:50,466
+- ...de style aussi moderne ?
+- Ce n'est pas Sir Charles !
+
+1171
+01:06:50,545 --> 01:06:54,106
+Et voici la dernière pièce
+de la collection Baskerville.
+
+1172
+01:06:54,181 --> 01:06:55,512
+Qu'est-ce que c'est ?
+
+1173
+01:06:56,083 --> 01:06:58,313
+Une œuvre fort intéressante,
+
+1174
+01:06:58,386 --> 01:07:02,083
+réalisée par feu Sir Charles
+les derniers jours de sa vie.
+
+1175
+01:07:02,156 --> 01:07:04,750
+ll s'agit, vous l'aurez remarqué,
+d'un autoportrait.
+
+1176
+01:07:04,825 --> 01:07:07,988
+- De quoi ?
+- Un bac de géraniums.
+
+1177
+01:07:09,330 --> 01:07:12,959
+- Je vous en donne deux shillings.
+- Merci, Dr Mortimer.
+
+1178
+01:07:13,568 --> 01:07:15,058
+Essaye avec trois.
+
+1179
+01:07:15,903 --> 01:07:18,030
+Ai-je entendu trois shillings ?
+
+1180
+01:07:18,105 --> 01:07:19,834
+Ai-je entendu trois ?
+
+1181
+01:07:19,907 --> 01:07:21,670
+Une fois,
+
+1182
+01:07:21,742 --> 01:07:23,607
+deux fois...
+
+1183
+01:07:23,678 --> 01:07:25,805
+- Trois.
+- J'ai trois shillings.
+
+1184
+01:07:25,880 --> 01:07:28,075
+- Quatre.
+- Cinq.
+
+1185
+01:07:28,783 --> 01:07:30,808
+- Six.
+- Sept.
+
+1186
+01:07:30,885 --> 01:07:33,012
+- Huit.
+- Neuf.
+
+1187
+01:07:33,087 --> 01:07:36,352
+J'ai neuf shillings
+du monsieur là derrière.
+
+1188
+01:07:36,424 --> 01:07:39,621
+- Ai-je entendu dix ?
+- Qui est ce minable ?!
+
+1189
+01:07:39,694 --> 01:07:43,130
+Je croyais que c'était Sir Henry.
+Je l'ai invité à dîner ce soir.
+
+1190
+01:07:43,197 --> 01:07:45,290
+- Quoi ?!
+- Adjugé au monsieur...
+
+1191
+01:07:45,366 --> 01:07:49,359
+Oh, regarde un peu !
+Tu m'as fait rater cette vente. Zut !
+
+1192
+01:07:50,037 --> 01:07:51,129
+Tant pis.
+
+1193
+01:07:51,205 --> 01:07:54,641
+Mais assure-toi d'inviter
+le bon héritier cette fois.
+
+1194
+01:07:57,111 --> 01:08:00,046
+Je crois que Beryl
+me fait signe.
+
+1195
+01:08:01,382 --> 01:08:03,976
+Qu'est-ce
+qui se trame, là ?
+
+1196
+01:08:04,051 --> 01:08:08,511
+Gardez un œil sur lui, Watson.
+Je crois que Beryl a des vues sur lui.
+
+1197
+01:08:08,589 --> 01:08:10,580
+Oh, sans blagues,
+vous m'en direz tant !
+
+1198
+01:08:20,434 --> 01:08:24,370
+- À 19h30 alors, Sir Henry.
+- Oui, Miss Stapleton.
+
+1199
+01:08:24,438 --> 01:08:26,872
+- Que devrais-je porter ?
+- Venez, c'est tout.
+
+1200
+01:08:26,941 --> 01:08:28,101
+Crétin.
+
+1201
+01:08:29,944 --> 01:08:32,105
+Je pense qu'elle
+en pince pour moi.
+
+1202
+01:08:33,781 --> 01:08:35,544
+Mais pourquoi avoir
+acheté cette horreur ?
+
+1203
+01:08:35,616 --> 01:08:38,449
+Où vais-je bien pouvoir
+le mettre à Baker Street ?
+
+1204
+01:08:39,787 --> 01:08:42,221
+Oh, ça alors, un chien !
+
+1205
+01:08:42,289 --> 01:08:45,725
+Précisément. Une reproduction
+parfaite du Chien des Baskerville,
+
+1206
+01:08:45,793 --> 01:08:47,454
+exécutée par Sir Charles
+
+1207
+01:08:47,528 --> 01:08:50,793
+et accrochée à l'envers par Glynis,
+quand elle travaillait dans le hall,
+
+1208
+01:08:50,865 --> 01:08:53,459
+et qui, vous le savez,
+fait tout à l'envers.
+
+1209
+01:08:53,534 --> 01:08:54,523
+Exact !
+
+1210
+01:08:55,036 --> 01:08:59,234
+Cela signifie que Sir Charles
+a bel et bien vu le Chien
+
+1211
+01:08:59,306 --> 01:09:01,740
+et l'a reproduit
+avant sa mort.
+
+1212
+01:09:01,809 --> 01:09:05,404
+Oui, je crois effectivement
+qu'il l'a peint avant sa mort.
+
+1213
+01:09:05,479 --> 01:09:08,744
+- Je doute qu'il l'ai peint après.
+- Exactement !
+
+1214
+01:09:08,816 --> 01:09:12,684
+Et donc, il y a bien un énorme,
+affreux chien sur la lande.
+
+1215
+01:09:12,753 --> 01:09:13,742
+Tout à fait.
+
+1216
+01:09:13,821 --> 01:09:16,415
+Sir Henry ne peut
+se rendre à ce dîner
+
+1217
+01:09:16,490 --> 01:09:17,582
+avec Beryl ce soir.
+
+1218
+01:09:17,658 --> 01:09:19,592
+Au contraire,
+vous et Sir Henry irez dîner...
+
+1219
+01:09:19,660 --> 01:09:22,424
+- ...à Merripit Hall comme prévu.
+- Oh, Holmes !
+
+1220
+01:09:22,496 --> 01:09:24,589
+- Donnez-moi une chance !
+- Du calme, Watson.
+
+1221
+01:09:24,665 --> 01:09:27,065
+- Ce n'est qu'un tableau.
+- Mais je suis calme !
+
+1222
+01:09:27,768 --> 01:09:28,496
+CHAPlTRE Xl
+
+1223
+01:09:28,569 --> 01:09:31,299
+<i>L'invitation
+à Merripit Hall</i>
+
+1224
+01:09:31,372 --> 01:09:34,136
+<i>se révèle être plus
+qu'un dîner.</i>
+
+1225
+01:09:41,615 --> 01:09:42,775
+C'était quoi ?
+
+1226
+01:09:44,452 --> 01:09:45,714
+Oh, mon Dieu !
+
+1227
+01:09:45,786 --> 01:09:47,720
+Oh, bon sang !
+Oh, je le savais !
+
+1228
+01:09:47,788 --> 01:09:49,380
+Je le savais !
+
+1229
+01:09:49,457 --> 01:09:52,949
+Je savais bien que le chien
+était là ! Je l'avais dit !
+
+1230
+01:09:54,795 --> 01:09:55,955
+Attendez-moi !
+
+1231
+01:09:56,464 --> 01:09:57,658
+Oh, c'était quoi ?!
+
+1232
+01:09:57,732 --> 01:09:59,324
+Non, non, non !
+
+1233
+01:09:59,400 --> 01:10:02,233
+Arrière,
+chien de l'enfer !
+
+1234
+01:10:06,407 --> 01:10:08,238
+Mais c'est mon manteau.
+
+1235
+01:10:09,076 --> 01:10:12,011
+Volé par la sœur
+de M. Barrymore,
+
+1236
+01:10:12,079 --> 01:10:14,104
+''Ethel l'exhibitionniste.''
+
+1237
+01:10:14,181 --> 01:10:18,845
+Qui n'est autre que Selden,
+l'assassin à la hache.
+
+1238
+01:10:20,187 --> 01:10:23,953
+- Mais pourquoi le Chien l'a tué ?
+- ll croyait que c'était Sir Henry,
+
+1239
+01:10:24,024 --> 01:10:26,458
+votre odeur lui ayant
+été donnée
+
+1240
+01:10:26,527 --> 01:10:28,961
+grâce à la botte
+volée à l'hôtel.
+
+1241
+01:10:29,029 --> 01:10:31,964
+- Reprenez votre manteau.
+- Après ce que vous avez dit,
+
+1242
+01:10:32,032 --> 01:10:34,227
+je préfère encore mourir
+que de mettre ce manteau.
+
+1243
+01:10:34,301 --> 01:10:36,462
+C'est bien une possibilité.
+
+1244
+01:10:45,613 --> 01:10:47,706
+Ciel, tous nos suspects
+sous le même toit.
+
+1245
+01:10:47,782 --> 01:10:51,548
+Je reste dehors. Et pas un mot
+au sujet de Selden et du chien.
+
+1246
+01:10:51,619 --> 01:10:55,453
+Vous ne venez pas ? Je me sentirais
+plus en sécurité avec vous.
+
+1247
+01:10:55,523 --> 01:10:57,855
+Tout est entre les mains
+de Watson désormais.
+
+1248
+01:10:59,393 --> 01:11:02,157
+- N'est-il pas grandiose ?
+- Oui.
+
+1249
+01:11:02,229 --> 01:11:03,389
+Oui.
+
+1250
+01:11:10,237 --> 01:11:13,331
+- C'est le chien ?
+- Bonté Divine !
+
+1251
+01:11:13,407 --> 01:11:16,342
+Sir Henry !
+Nous ne vous attendions pas.
+
+1252
+01:11:16,410 --> 01:11:17,843
+Mais vous m'avez invité.
+
+1253
+01:11:17,912 --> 01:11:20,346
+Nous ne vous attendions pas
+quand même.
+
+1254
+01:11:20,414 --> 01:11:23,349
+N'avez-vous eu aucun
+souci sur la lande ?
+
+1255
+01:11:23,417 --> 01:11:24,748
+Et bien en fait...
+
+1256
+01:11:25,419 --> 01:11:27,683
+Au contraire,
+Mlle Stapleton.
+
+1257
+01:11:27,755 --> 01:11:29,120
+Ah, oui, oui.
+
+1258
+01:11:29,190 --> 01:11:32,023
+Non, c'était charmant.
+
+1259
+01:11:32,092 --> 01:11:34,356
+- Entrez alors.
+- Merci.
+
+1260
+01:11:34,428 --> 01:11:36,919
+Donnez-moi votre manteau,
+Sir Henry.
+
+1261
+01:11:38,799 --> 01:11:41,893
+J'aimerais porter un toast
+à ce pauvre Sir Henry.
+
+1262
+01:11:41,969 --> 01:11:44,733
+Pardonnez mon retard.
+
+1263
+01:11:44,805 --> 01:11:47,433
+En traversant la lande...
+
+1264
+01:11:47,508 --> 01:11:49,908
+lnutile d'entrer
+dans les détails, Sir Henry.
+
+1265
+01:11:50,778 --> 01:11:53,713
+L'important c'est que
+j'ai toutes les raisons de croire
+
+1266
+01:11:53,781 --> 01:11:57,512
+qu'un crime odieux
+se prépare ici même.
+
+1267
+01:11:57,585 --> 01:11:58,574
+Ce soir !
+
+1268
+01:12:00,487 --> 01:12:03,081
+Vous n'allez pas de nouveau
+jouer au détective ?
+
+1269
+01:12:03,157 --> 01:12:04,784
+Vous n'êtes pas qualifié.
+
+1270
+01:12:04,859 --> 01:12:06,520
+Vraiment, Dr Mortimer ?
+
+1271
+01:12:07,862 --> 01:12:10,922
+Pour être un bon
+détective il faut du courage,
+
+1272
+01:12:10,998 --> 01:12:14,456
+de l'intelligence,
+de la persévérance,
+
+1273
+01:12:14,535 --> 01:12:15,866
+et un pistolet !
+
+1274
+01:12:18,505 --> 01:12:20,769
+Et moi, j'ai le pistolet.
+
+1275
+01:12:22,810 --> 01:12:25,643
+Et que pensez-vous en faire
+au juste, Dr Watson ?
+
+1276
+01:12:26,647 --> 01:12:29,639
+Cela vous intéresse,
+Mlle Stapleton ?
+
+1277
+01:12:30,818 --> 01:12:34,914
+Vous aimeriez savoir
+pourquoi je vous ai tous réunis ?
+
+1278
+01:12:34,989 --> 01:12:36,854
+Nous vous avons invité,
+Dr Watson.
+
+1279
+01:12:37,524 --> 01:12:41,358
+Je tiens à préciser que
+je suspecte chacun d'entre vous.
+
+1280
+01:12:42,029 --> 01:12:43,963
+Sauf cette charmante
+créature, ici.
+
+1281
+01:12:44,031 --> 01:12:47,432
+Otez vos sales pattes
+de mon poussin, vous !
+
+1282
+01:12:48,269 --> 01:12:50,829
+- Sinon je vous scalpe.
+- Ouste, du balai !
+
+1283
+01:12:50,905 --> 01:12:52,998
+Vous devez avoir faim
+après cette longue marche.
+
+1284
+01:12:53,073 --> 01:12:56,531
+Pourquoi ne pas vous asseoir
+et grignoter quelque chose ?
+
+1285
+01:12:56,610 --> 01:12:59,204
+Merci, j'ai effectivement
+un petit creux.
+
+1286
+01:12:59,280 --> 01:13:00,804
+Dommage, il ne reste rien.
+
+1287
+01:13:00,881 --> 01:13:04,783
+Pas de problème.
+C'est si charmant de vous connaître.
+
+1288
+01:13:04,852 --> 01:13:06,820
+Ma sœur réussira bien
+à trouver un reste ou deux.
+
+1289
+01:13:06,887 --> 01:13:09,117
+- Comme c'est aimable.
+- Avant votre arrivée,
+
+1290
+01:13:09,189 --> 01:13:12,488
+nous parlions justement des testi...
+euh, du testament de votre oncle,
+
+1291
+01:13:12,559 --> 01:13:15,153
+qui, comme vous le savez,
+sera lu demain.
+
+1292
+01:13:15,229 --> 01:13:18,892
+Oh, oui. J'ai hâte
+de savoir ce qu'il me lègue.
+
+1293
+01:13:19,400 --> 01:13:21,994
+Certes, en tant que voisins,
+nous sommes également curieux
+
+1294
+01:13:22,069 --> 01:13:24,128
+de connaître
+la répartition du domaine.
+
+1295
+01:13:24,204 --> 01:13:26,968
+Et qu'allez-vous faire
+de cette fichue clôture ?
+
+1296
+01:13:27,041 --> 01:13:29,737
+Ça m'empêche de chasser !
+
+1297
+01:13:30,277 --> 01:13:32,541
+Sortez de là,
+les mains en l'air.
+
+1298
+01:13:32,613 --> 01:13:34,877
+Ne pointe pas
+ce machin sur moi, Sherl.
+
+1299
+01:13:34,949 --> 01:13:37,042
+Pour l'amour du ciel, Mère,
+que fais-tu ici ?
+
+1300
+01:13:37,117 --> 01:13:40,348
+Je vais t'en donner moi du
+'' Pour l'amour du ciel ! ''
+
+1301
+01:13:40,421 --> 01:13:42,150
+Où est Watty
+et ce volcan ?
+
+1302
+01:13:42,222 --> 01:13:44,690
+M. Taramasalata dit qu'il va
+entrer en éruption.
+
+1303
+01:13:44,758 --> 01:13:46,521
+ll n'y a pas de volcan.
+
+1304
+01:13:46,593 --> 01:13:48,527
+Pourquoi m'as-tu
+menti, alors ?
+
+1305
+01:13:48,595 --> 01:13:51,029
+- Où est Watty ?
+- A l'intérieur, Mère.
+
+1306
+01:13:51,098 --> 01:13:52,588
+Tout seul ?
+
+1307
+01:13:52,666 --> 01:13:54,759
+ll n'est pas
+en bonne compagnie !
+
+1308
+01:13:54,835 --> 01:13:57,770
+Celui à sa droite ressemble
+à un véritable abruti.
+
+1309
+01:13:57,838 --> 01:13:59,772
+C'est mon client, Mère.
+
+1310
+01:13:59,840 --> 01:14:01,774
+Et les autres ?
+Non mais, regarde un peu.
+
+1311
+01:14:01,842 --> 01:14:05,243
+Ce sont certainement
+des étrangers.
+
+1312
+01:14:05,312 --> 01:14:08,076
+- Je vais rentrer.
+- Chut ! Mère !
+
+1313
+01:14:08,148 --> 01:14:09,979
+Tu vas tout faire rater !
+
+1314
+01:14:10,517 --> 01:14:12,508
+ll est en danger, Sherl.
+
+1315
+01:14:13,520 --> 01:14:16,455
+Nous sommes venues
+pour t'aider, n'est-ce pas, lris ?
+
+1316
+01:14:16,523 --> 01:14:19,515
+- Oui, Mme Holmes.
+- Ne m'interromps pas !
+
+1317
+01:14:21,028 --> 01:14:24,054
+Ne parle pas de mort
+devant lris.
+
+1318
+01:14:24,131 --> 01:14:28,363
+Cette clôture s'en va,
+que vous le vouliez ou non !
+
+1319
+01:14:28,435 --> 01:14:31,700
+Je suis sûr que mon oncle
+a eu une bonne raison de l'ériger.
+
+1320
+01:14:31,772 --> 01:14:35,367
+Oui, pour empêcher
+mes Chihuahuas de faire leur popo
+
+1321
+01:14:35,442 --> 01:14:37,933
+là où cela leur plaît,
+dans un endroit propre !
+
+1322
+01:14:39,279 --> 01:14:41,543
+Écoutez ces petits anges !
+
+1323
+01:14:41,615 --> 01:14:45,210
+Savez-vous ce que cela fait
+à l'âme d'un animal,
+
+1324
+01:14:45,285 --> 01:14:49,312
+de devoir se soulager
+tous les jours au même endroit ?
+
+1325
+01:14:49,390 --> 01:14:53,622
+En ce qui me concerne,
+l'endroit où vos chiens font popo
+
+1326
+01:14:53,694 --> 01:14:55,628
+est entre vos mains.
+
+1327
+01:14:56,864 --> 01:15:00,061
+Les habitants de la lande
+n'aiment guère que les étrangers
+
+1328
+01:15:00,134 --> 01:15:02,068
+s'occupent
+de leurs affaires.
+
+1329
+01:15:02,136 --> 01:15:03,967
+Vous changerez d'avis,
+Sir Henry.
+
+1330
+01:15:07,508 --> 01:15:08,998
+Ça manque
+de quelque chose.
+
+1331
+01:15:09,510 --> 01:15:12,843
+Je suis persuadé que Sir Henry
+sera ravi de coopérer avec vous.
+
+1332
+01:15:18,352 --> 01:15:21,287
+Je ne veux pas rester ici
+pour qu'on me dise quoi faire
+
+1333
+01:15:21,355 --> 01:15:22,686
+avec ma propriété !
+
+1334
+01:15:22,756 --> 01:15:25,816
+Partez, dans ce cas.
+
+1335
+01:15:26,360 --> 01:15:29,921
+- Là, il n'a pas tort.
+- Ne le défends pas, Watty !
+
+1336
+01:15:29,997 --> 01:15:32,932
+- Vous me rendez malade !
+- Vous dérangez ma patiente.
+
+1337
+01:15:33,000 --> 01:15:35,730
+- Mais c'est pas ma faute !
+- Misérable rat !
+
+1338
+01:15:56,590 --> 01:15:57,682
+Sir Henry ?
+
+1339
+01:15:58,525 --> 01:16:01,119
+- Oui ?
+- Je pense que vous devriez partir.
+
+1340
+01:16:01,195 --> 01:16:02,958
+Votre manteau, Sir Henry.
+
+1341
+01:16:03,030 --> 01:16:06,090
+Faites attention à ne pas
+l'enlever, il fait froid ce soir.
+
+1342
+01:16:06,166 --> 01:16:08,134
+ll fait un temps de chien.
+
+1343
+01:16:08,202 --> 01:16:11,296
+Je vous verrai demain
+à la lecture du testament.
+
+1344
+01:16:11,371 --> 01:16:14,306
+Et alors nous verrons
+quelles clôtures restent
+
+1345
+01:16:14,374 --> 01:16:16,808
+et lesquelles s'en vont !
+
+1346
+01:16:16,877 --> 01:16:18,970
+Bonne nuit, Miss Stapleton,
+
+1347
+01:16:19,046 --> 01:16:22,538
+ou devrais-je dire
+au revoir ?
+
+1348
+01:16:26,120 --> 01:16:28,088
+Mary va vous raccompagner.
+
+1349
+01:16:33,293 --> 01:16:34,954
+Vermine nauséabonde !
+
+1350
+01:16:37,965 --> 01:16:40,229
+Au revoir
+ou bonne nuit ?
+
+1351
+01:16:40,567 --> 01:16:43,058
+''Non'' aurait suffit.
+
+1352
+01:16:46,974 --> 01:16:48,464
+Le chien !
+
+1353
+01:16:51,478 --> 01:16:54,743
+<i>Le chien,
+le chien est sur les traces</i>
+
+1354
+01:16:54,815 --> 01:16:58,751
+<i>de Sir Henry,
+cette pauvre limace.</i>
+
+1355
+01:16:59,253 --> 01:17:02,689
+<i>Malheureux Sir Henry
+qui va finir dévoré,</i>
+
+1356
+01:17:02,756 --> 01:17:05,691
+<i>le chien lui court après.</i>
+
+1357
+01:17:05,759 --> 01:17:09,354
+<i>Mon bon monsieur,
+Sir Hen... !</i>
+
+1358
+01:17:09,429 --> 01:17:12,023
+<i>Le chien, le chien...</i>
+
+1359
+01:17:12,099 --> 01:17:15,364
+<i>Le chien veut Sir Henry !</i>
+
+1360
+01:17:15,435 --> 01:17:17,699
+<i>Sir Henry est en danger.</i>
+
+1361
+01:17:17,771 --> 01:17:20,365
+<i>Sir Henry,
+sauvez votre peau.</i>
+
+1362
+01:17:20,440 --> 01:17:23,375
+<i>Votre peau, votre peau !</i>
+
+1363
+01:17:23,443 --> 01:17:25,274
+Arrête, chien,
+ou je tire !
+
+1364
+01:17:25,345 --> 01:17:27,108
+Non, stop, Watson !
+
+1365
+01:17:28,115 --> 01:17:30,083
+Mais le chien est sur lui !
+
+1366
+01:17:30,150 --> 01:17:31,481
+Absolument, regardez bien.
+
+1367
+01:17:36,857 --> 01:17:39,291
+Vous avez laissé
+le chien tuer Sir Henry !
+
+1368
+01:17:39,359 --> 01:17:40,792
+Peut-être, Watson.
+
+1369
+01:17:40,861 --> 01:17:43,728
+Cachons-nous
+et attendons les autres.
+
+1370
+01:17:43,797 --> 01:17:45,788
+Attendre les autres ?
+Mais qu'est-ce qui vous prend ?!
+
+1371
+01:17:45,866 --> 01:17:49,393
+- Nous devons appeler un docteur !
+- Vous êtes docteur, Watson.
+
+1372
+01:17:49,469 --> 01:17:51,562
+- Mais...
+- Silence, les voilà.
+
+1373
+01:17:51,638 --> 01:17:53,128
+Comment ça, silence ?!
+
+1374
+01:17:56,143 --> 01:17:59,510
+- ll l'a eu !
+- Oh, regardez, Dr Mortimer.
+
+1375
+01:17:59,580 --> 01:18:01,172
+Oh, quel dommage.
+
+1376
+01:18:01,248 --> 01:18:03,512
+Ce vilain chien
+vient de tuer Sir Henry.
+
+1377
+01:18:03,584 --> 01:18:05,176
+MARECAGE NAUSÉABOND
+MERRlPlT HALL
+
+1378
+01:18:05,252 --> 01:18:07,117
+Quelle perte tragique.
+
+1379
+01:18:07,187 --> 01:18:09,121
+Au contraire, Dr Mortimer.
+
+1380
+01:18:09,189 --> 01:18:11,453
+Sir Henry est en vie,
+
+1381
+01:18:11,525 --> 01:18:14,289
+et éperdument amoureux.
+
+1382
+01:18:16,597 --> 01:18:18,690
+Quel gentil chienchien.
+
+1383
+01:18:19,933 --> 01:18:23,198
+Je crois avoir laissé
+du lait sur le feu.
+
+1384
+01:18:23,971 --> 01:18:26,769
+Nous avons tous
+des choses importantes à faire.
+
+1385
+01:18:28,041 --> 01:18:31,442
+- Quoi ? Déjà si tard ?
+- On dirait qu'il va pleuvoir.
+
+1386
+01:18:32,212 --> 01:18:33,645
+Holmes, c'est très louche !
+
+1387
+01:18:33,714 --> 01:18:35,807
+Regardez, ils s'en vont !
+Ne devrions-nous pas les suivre ?
+
+1388
+01:18:35,882 --> 01:18:39,215
+Pas d'inquiétude, Watson.
+Tout sera vite limpide.
+
+1389
+01:18:40,454 --> 01:18:41,853
+C'était quoi, ça ?
+
+1390
+01:18:43,290 --> 01:18:46,282
+À l'aide ! Nous sommes
+prisonniers des marais !
+
+1391
+01:18:46,960 --> 01:18:50,225
+Nous les tenons ! lls sont
+dans le Marécage Nauséabond !
+
+1392
+01:18:50,297 --> 01:18:53,061
+Quelle brillante idée
+de déplacer le panneau.
+
+1393
+01:18:53,133 --> 01:18:55,397
+Bien le bonsoir,
+messieurs, dames.
+
+1394
+01:18:55,469 --> 01:18:56,731
+M. Holmes, je m'enlise.
+
+1395
+01:18:56,803 --> 01:18:59,363
+Aidez-moi et je dirai
+du bien de vous.
+
+1396
+01:18:59,439 --> 01:19:01,737
+Watson !
+Repêchez donc ce cher docteur.
+
+1397
+01:19:01,808 --> 01:19:04,868
+- Empêchez-le de couler.
+- J'y vais !
+
+1398
+01:19:08,749 --> 01:19:11,081
+Sherl, je savais
+que tes amis étaient dégénérés,
+
+1399
+01:19:11,151 --> 01:19:13,346
+mais je ne pensais pas
+qu'ils faisaient de telles choses.
+
+1400
+01:19:13,420 --> 01:19:16,048
+Ne regarde pas, lris...
+Des hermaphrodites.
+
+1401
+01:19:16,123 --> 01:19:17,715
+Oh, M. Holmes !
+
+1402
+01:19:17,791 --> 01:19:20,783
+Je vois
+que vous avez réussi.
+
+1403
+01:19:21,461 --> 01:19:25,693
+Exactement ce que je croyais.
+lls sont tous mouillés.
+
+1404
+01:19:25,766 --> 01:19:27,495
+Oh, très drôle !
+
+1405
+01:19:27,567 --> 01:19:30,502
+Vous arrivez juste à temps
+pour la lecture du testament.
+
+1406
+01:19:30,570 --> 01:19:32,504
+Watson, auriez-vous l'obligeance
+de passer vos petites mains
+
+1407
+01:19:32,572 --> 01:19:34,733
+dans la poche droite
+du pantalon du Dr Mortimer,
+
+1408
+01:19:34,808 --> 01:19:37,174
+vous y trouverez
+ce que nous cherchons.
+
+1409
+01:19:37,244 --> 01:19:38,575
+Allez, donnez-le moi.
+
+1410
+01:19:39,780 --> 01:19:40,872
+Merci.
+
+1411
+01:19:40,947 --> 01:19:44,713
+lci nous est révélé que le véritable
+héritier de Baskerville Hall
+
+1412
+01:19:44,785 --> 01:19:47,549
+n'est autre que le brave et docile
+toutou de Sir Charles,
+
+1413
+01:19:47,621 --> 01:19:49,782
+le chien lui-même.
+
+1414
+01:19:50,457 --> 01:19:52,891
+Vous voulez dire que
+le chien était son ami ?
+
+1415
+01:19:52,959 --> 01:19:55,427
+Exactement.
+Si le chien venait à mourir,
+
+1416
+01:19:55,495 --> 01:19:58,487
+le domaine
+revenait à Sir Henry,
+
+1417
+01:19:58,565 --> 01:20:02,331
+et si Sir Henry était mort,
+il passait aux voisins,
+
+1418
+01:20:02,402 --> 01:20:06,270
+ces crasseux dégénérés.
+
+1419
+01:20:06,340 --> 01:20:09,776
+Alors pourquoi le Dr Mortimer
+vous a-t-il fait venir ?
+
+1420
+01:20:09,843 --> 01:20:12,607
+ll savait que vous aviez
+des problèmes cardiaques,
+
+1421
+01:20:12,679 --> 01:20:16,945
+une maladie associée
+à l'humidité et à l'alopécie.
+
+1422
+01:20:17,017 --> 01:20:20,350
+C'est vrai, tous les Baskerville
+ont l'organe qui monte mal...
+
+1423
+01:20:20,420 --> 01:20:22,047
+Qui pompe mal,
+je veux dire.
+
+1424
+01:20:22,122 --> 01:20:25,057
+ll comptait sur le fait
+que le chien serait fou de joie
+
+1425
+01:20:25,125 --> 01:20:28,094
+en sentant l'odeur d'un Baskerville
+et se ruerait sur vous.
+
+1426
+01:20:28,595 --> 01:20:31,530
+Et, Sir Henry, terrifié
+par toutes ces fausses légendes,
+
+1427
+01:20:31,598 --> 01:20:33,691
+trépasserait sur le champ,
+victime d'une attaque.
+
+1428
+01:20:33,767 --> 01:20:37,259
+C'est cela. De plus, Mortimer
+voulait que nous assistions à tout
+
+1429
+01:20:37,337 --> 01:20:39,362
+avant d'abattre le chien.
+
+1430
+01:20:39,439 --> 01:20:43,500
+Quelle misérable bande
+de ploucs malhonnêtes.
+
+1431
+01:20:43,577 --> 01:20:46,910
+La Police de Baskerville
+ne devrait plus tarder.
+
+1432
+01:20:46,980 --> 01:20:49,312
+Ces gens sont vraiment
+tombés bien bas.
+
+1433
+01:20:50,951 --> 01:20:53,476
+<i>Triste au revoir.</i>
+
+1434
+01:20:53,553 --> 01:20:56,215
+LOUlSVlLLE, KENTUCKY
+ÉTATS-UNlS
+
+1435
+01:20:58,392 --> 01:21:00,326
+Vous allez vraiment
+en Amérique ?
+
+1436
+01:21:00,394 --> 01:21:02,828
+Cet endroit
+ne sera plus le même sans vous.
+
+1437
+01:21:02,896 --> 01:21:04,830
+Vous avez été si aimables.
+
+1438
+01:21:04,898 --> 01:21:07,162
+Oui, c'est vrai, Sir H.
+
+1439
+01:21:07,234 --> 01:21:11,330
+Mais depuis la perte de mon
+cher frère, l'assassin à la hache,
+
+1440
+01:21:11,405 --> 01:21:16,308
+cette maison renferme trop
+de tristes souvenirs pour nous.
+
+1441
+01:21:16,376 --> 01:21:17,707
+Mais qu'allez-vous faire ?
+
+1442
+01:21:17,778 --> 01:21:21,441
+Mme Holmes
+a lu les lignes de nos mains.
+
+1443
+01:21:21,515 --> 01:21:23,676
+Je dois vous avertir,
+Mme Barrymore,
+
+1444
+01:21:23,750 --> 01:21:25,809
+que ma Mère est folle.
+
+1445
+01:21:25,886 --> 01:21:29,151
+Ce qu'a dit votre mère
+était très sensé au contraire.
+
+1446
+01:21:29,222 --> 01:21:31,622
+Elle a vu du poulet
+dans ma ligne de vie.
+
+1447
+01:21:31,691 --> 01:21:32,783
+Du poulet ?
+
+1448
+01:21:32,859 --> 01:21:35,794
+Et des frites
+dans la mienne.
+
+1449
+01:21:35,862 --> 01:21:38,797
+Nous allons nous tracer
+une nouvelle vie
+
+1450
+01:21:38,865 --> 01:21:41,595
+dans le nouveau monde.
+
+1451
+01:21:41,668 --> 01:21:44,330
+Mais que ferez-vous
+avec tout ce poulet ?
+
+1452
+01:21:44,871 --> 01:21:46,566
+Et ces frites ?
+
+1453
+01:21:46,640 --> 01:21:48,574
+Nous les mettrons
+dans de petits cartons
+
+1454
+01:21:48,642 --> 01:21:51,338
+et les napperons
+d'une sauce spéciale.
+
+1455
+01:21:51,411 --> 01:21:54,346
+Nous vous enverrons
+une carte postale du Kentucky.
+
+1456
+01:21:54,414 --> 01:21:56,177
+Oh, quel cœur
+d'artichaut, Arthur.
+
+1457
+01:21:56,249 --> 01:21:58,774
+- Voici vos clefs.
+- Oh, merci !
+
+1458
+01:21:58,852 --> 01:22:01,286
+- Viens, Ada.
+- Adieu.
+
+1459
+01:22:01,354 --> 01:22:03,549
+- Bonne chance.
+- Bon débarras !
+
+1460
+01:22:04,558 --> 01:22:05,991
+Viens mon petit.
+
+1461
+01:22:06,059 --> 01:22:09,392
+Monte, c'est bien.
+
+1462
+01:22:09,896 --> 01:22:12,160
+N'est-il pas adorable, Sherl ?
+
+1463
+01:22:12,232 --> 01:22:16,999
+Et dire que tous ces gens voulaient
+que Sir Henry en ait peur.
+
+1464
+01:22:17,070 --> 01:22:19,504
+Quel monde cruel,
+n'est-ce pas mon beau ?
+
+1465
+01:22:19,573 --> 01:22:23,907
+- Oh, oui, oui.
+- Silence, lris !
+
+1466
+01:22:26,413 --> 01:22:28,176
+Vous me reluquiez la poitrine.
+
+1467
+01:22:28,248 --> 01:22:30,216
+Une chose
+me tracasse, Holmes.
+
+1468
+01:22:30,283 --> 01:22:35,016
+ll est évident que Sir Charles
+n'a pas été tué par le chien.
+
+1469
+01:22:35,088 --> 01:22:36,555
+Alors, qui l'a refroidi ?
+
+1470
+01:22:36,623 --> 01:22:39,387
+ll se dirigeait
+vers les toilettes extérieures.
+
+1471
+01:22:39,459 --> 01:22:43,555
+J'en déduis qu'il a succombé
+à une attaque de reflux gastrique.
+
+1472
+01:22:43,630 --> 01:22:46,098
+La cuisine des Barrymore
+causerait la mort de n'importe qui.
+
+1473
+01:22:47,834 --> 01:22:52,601
+Je t'avais portant dit de ne pas
+mentionner la mort devant lris !
+
+1474
+01:22:58,211 --> 01:23:00,145
+J'ai perdu
+une grande voyante
+
+1475
+01:23:00,213 --> 01:23:03,979
+dans un monde si obscur.
+
+1476
+01:23:04,050 --> 01:23:06,644
+Mère, elle n'était
+pas extralucide.
+
+1477
+01:23:06,720 --> 01:23:08,813
+Si seulement tu pouvais
+arrêter ces bêtises.
+
+1478
+01:23:08,889 --> 01:23:12,484
+Si lris et M. Taramasalata
+n'avaient pas été là,
+
+1479
+01:23:12,559 --> 01:23:15,153
+nous n'aurions jamais su
+pour le volcan !
+
+1480
+01:23:15,228 --> 01:23:17,492
+Pour la dernière fois, Mère,
+
+1481
+01:23:17,564 --> 01:23:20,931
+il n'y a pas de volcan !
+
+1482
+01:23:27,073 --> 01:23:29,234
+'' ll n'y a pas de volcan ! ''
