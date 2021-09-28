@@ -12,8 +12,8 @@ Otherwise, the weights of the best model obtained can be found in the path : [Di
 
 ### Datasets DialoGPT :
 - "Film" folder gathers the transcript of movies used to fine-tune the model. It refers to the "Movie Dataset" of the report.
-- "Reddit data" folder gathers the data scrapped from Reddit in June 2021.
-- "forum.fr Dataset" folder contains the file "ScrappingForum.fr" which scraped messages from the french forum forum.fr, the dataset is also available but was finally not studied due to limited data
+- "Reddit data" folder gathers the data scraped from Reddit in June 2021.
+- "forum.fr Dataset" folder contains the file "ScrappingForum.fr" which scraped messages from the french forum forum.fr, the dataset is also available but was finally not studied due to limited data.
 - "DialogueAndExtractDataset.txt" contains around 500 utterances of dialogues for learning french.
 - "Entretiens.txt", "Theatre.txt", "Livre.txt" respectively gathers conversations extracted from interviews, theater plays and books. 
 - "EthicalQuestions.txt" gathers sensible questions for which the chatbot must be prepared. 
@@ -22,7 +22,7 @@ Otherwise, the weights of the best model obtained can be found in the path : [Di
 ### Chatbot DialoGPT :
 
 - "Extracts from Human Evaluations"  gathers screenshots of conversations between the chatbot and the evaluators.
-- "Output Film + Livre" is the folder which contains the wieght of MBI dataset model;
+- "Output Film + Livre" is the folder which contains the weight of MBI dataset model.
 - "GUIStreamlit.py" consists of a user interface made with the Streamlit library. 
 - "Pre-Processing.ipynb" describes the pre-processing of each dataset (especially the Reddit Dataset) and perform the training of the model.
 - "RedditScrapping.py" perfoms the scraping of Reddit data. 
