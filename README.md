@@ -1,6 +1,6 @@
 # DialoGPT fine-tuned for french language
 
-This is a study of the impact of different type of datasets on the fine-Tuning of DialoGPT for learning french language. The report presents the different steps taken to improve the human evaluation of trained models and their perplexity. 
+This is a study of the impact of different type of datasets for the fine-Tuning of DialoGPT for learning french language. The report presents the different steps taken to improve the human evaluation of trained models and their perplexity. 
 
 ## Usage of the model :
 
